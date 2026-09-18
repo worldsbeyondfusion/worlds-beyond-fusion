@@ -15,11 +15,11 @@ Fusion-based worlds
 Worlds Planned:
 
 1. Dark World
-2. Fire World
+2. Light World
 3. Water World
-4. TBD
-5. TBD
-6. TBD
+4. Earth World
+5. Fire World
+6. Flying World
 
 ---
 
