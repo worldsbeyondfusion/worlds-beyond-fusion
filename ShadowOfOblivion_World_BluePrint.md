@@ -1,4 +1,5 @@
-#ShadowOfOblivion#
+# ShadowOfOblivion #
+* The apocalypse didn't kill them. It erased the reason they lived. * 
 
 ---
 
