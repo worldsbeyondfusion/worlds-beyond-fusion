@@ -68,6 +68,6 @@ Their heaviest burden is watching tragedies unfold while possessing the absolute
 The invitation to the Archive is never an act of desperation.
 The Archiver is endlessly willing to share the vast knowledge of the multiverse with anyone curious enough to look beyond their own reality.
 Children are invited because they embody the absolute purest form of curiosity.
-Their open, untainted minds allow them to fully grasp, appreciate, and admire every complex aspect of the elemental fusions and the diverse worlds they inhabit.
+Their open, untainted minds allow them to fully grasp, appreciate, and admire every complex aspect of the diverse elemental of worlds they inhabit.
 By witnessing these stories with genuine wonder, the children naturally anchor these realities to existence.
 They are joyous vessels of memory—ensuring that through their boundless curiosity, the stories within the Archive will live on and never be truly forgotten.
