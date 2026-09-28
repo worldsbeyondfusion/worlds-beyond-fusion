@@ -3,7 +3,8 @@
 ## Act Purpose
 
 What must change by the end of this act?
-Audience understand darkrai despair and anger
+Establish the threat of erasure, show Solgaleo preparing to resist it,
+and lead Darkrai from shock and anger toward the discovery of possible refuge.
 
 ## Audience Knowledge
 
@@ -39,9 +40,11 @@ Character: Yveltal + Solgaleo
 
 Location: Far away city + Solgaleo castle
 
-What Changes:
+What Changes: Solgaleo's vague premonition becomes visible evidence that the catastrophe has begun.
 
-Key Visual: Solgaleo standing tall on its castle balcony looking at distant city then zoomed in the city | darkred mist looks like yveltal sweeping across plains and city then leave nothing but chaos and destruction
+Key Visual: Solgaleo watches from the balcony as a distant city disappears beneath
+a reddish-black mist. A vast, indistinct winged silhouette briefly forms
+inside the storm before the city vanishes.
 
 Estimated Duration: 5s
 
@@ -57,7 +60,7 @@ Location: Solgaleo castle
 
 What Changes: Solgaleo teritory have a dome like barier
 
-Key Visual: Zoomed out from the destroyed city -> Solgaleo move from balcony then enter his throne room -> roar to create the barier
+Key Visual: Solgaleo enters the throne room, channels golden energy through the castle, and raises a radiant dome over the kingdom.
 
 Estimated Duration: 5s
 
@@ -65,7 +68,7 @@ Estimated Duration: 5s
 
 ## Scene 3: Escalation
 
-Purpose: Darkrai understand what happen
+Purpose: Show Darkrai witnessing the physical destruction caused by the mist.
 
 Character: Darkrai + Yveltal
 
@@ -81,9 +84,9 @@ Estimated Duration: 8s
 
 ## Scene 4: Emotional Beat
 
-Purpose: Make audience understand the darkrai despair of memory loss
+Purpose: Reveal that the mist erases emotional connections and memories, making the catastrophe worse than physical destruction.
 
-Character: Darkrai, mimickyu, totodile, haunter
+Character: Darkrai, mimikyu, totodile, haunter
 
 Location: Destroyed city
 
@@ -101,10 +104,10 @@ Purpose: Give a glimmer of hope and whats next question
 
 Character: Darkrai
 
-Location: Outside solgaleo castle
+Location: Ruined high ground overlooking the distant kingdom
 
-What Changes: Darkrai see the castle still standing tall
+What Changes: Darkrai discovers that one golden light remains untouched by the mist.
 
-Key Visual: Darkrai found the dome barier
+Key Visual: Across the devastated landscape, Darkrai sees Solgaleo's golden barrier glowing alone beneath the darkening sky.
 
 Estimated Duration: 5s
