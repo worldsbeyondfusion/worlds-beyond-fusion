@@ -24,8 +24,15 @@ Target Release:
 
 ## Production Goals
 
-Season 1:
+### Season 1:
 - 6 worlds
 - 30-60 second episodes
 - Realistic cinematic style
-``
+
+## Scene Limit
+
+- Preferred range: 4-6 scenes
+- Complex episode: 7 scenes
+- Absolute maximum: 8 scenes
+- More than 8 scenes requires restructuring
+- Emotional episodes should generally stay below 7 scenes
