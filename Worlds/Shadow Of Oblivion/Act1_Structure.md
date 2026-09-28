@@ -32,7 +32,7 @@ Maximum: 8
 
 ---
 
-## Scene 1: Hook
+## Scene 1: The Premonition
 
 Purpose: Show the up coming despair
 
@@ -50,7 +50,7 @@ Estimated Duration: 5s
 
 ---
 
-## Scene 2: Development
+## Scene 2: The Barrier
 
 Purpose: The king show thats he is ready to protect
 
@@ -66,7 +66,7 @@ Estimated Duration: 5s
 
 ---
 
-## Scene 3: Escalation
+## Scene 3: The Forgotten Ruins
 
 Purpose: Show Darkrai witnessing the physical destruction caused by the mist.
 
@@ -82,7 +82,7 @@ Estimated Duration: 8s
 
 ---
 
-## Scene 4: Emotional Beat
+## Scene 4: The Breaking Point
 
 Purpose: Reveal that the mist erases emotional connections and memories, making the catastrophe worse than physical destruction.
 
@@ -98,7 +98,7 @@ Estimated Duration: 10s
 
 ---
 
-## Scene 5: Ending / Cliffhanger
+## Scene 5: The Last Light
 
 Purpose: Give a glimmer of hope and whats next question
 
