@@ -29,10 +29,21 @@ Target Release:
 - 30-60 second episodes
 - Realistic cinematic style
 
-## Scene Limit
+## Release Format
 
-- Preferred range: 4-6 scenes
-- Complex episode: 7 scenes
+- One world equals one complete saga.
+- One world contains exactly eight acts.
+- One act equals one published video.
+- Two acts are published per week.
+- One world is published over approximately four weeks.
+- Each act targets 45-60 seconds.
+- Each act contains 5-8 scenes.
+
+## Scene Limits
+
+- Focused or emotional act: 5 scenes
+- Normal act: 6 scenes
+- Complex act: 7 scenes
 - Absolute maximum: 8 scenes
 - More than 8 scenes requires restructuring
-- Emotional episodes should generally stay below 7 scenes
+- Emotional acts should avoid 8 scenes unless every scene is essential
