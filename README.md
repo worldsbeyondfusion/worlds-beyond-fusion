@@ -1,44 +1,32 @@
 # Worlds Beyond Fusion
 
-One Story At A Time.
+**One Story at a Time**
 
 ## Overview
 
-Worlds Beyond Fusion is a storytelling project featuring
-multiple universes connected through recurring narrators.
+Worlds Beyond Fusion is a cinematic anthology project built around
+multiple fictional universes connected through recurring narrators,
+audiences, and storytelling frameworks.
 
-The first universe is Aetheria, a fusion-based world where
-a divine fusion Pokémon narrates stories from alternate worlds
-to a group of young fusion Pokémon.
+The first active universe is Aetheria, where a fusion-based narrator
+presents stories from alternate worlds to three young fusion creatures
+inside the Grand Library.
 
-## Status
+## Current Status
 
-Current Universe:
-- Aetheria
-
-Current Release Phase:
-- Pre-production
-
-Target Release:
-- Mid 2027
-
-## Production Goals
-
-### Season 1:
-- 6 worlds
-- 30-60 second episodes
-- Realistic cinematic style
-- 1 world = 1 saga
-- 1 saga = exactly 8 acts
-- 1 act = 1 published short/video
+- Active universe: Aetheria
+- Active world: Shadow of Oblivion
+- Current phase: Story architecture and pre-production
+- Production status: Not started
+- Target release: Mid-2027
 
 ## Release Format
 
 - One world equals one complete saga.
-- One world contains exactly eight acts.
+- One saga contains exactly eight acts.
 - One act equals one published video.
 - Two acts are published per week.
-- One world is published over approximately four weeks.
+- One saga runs for approximately four weeks.
 - Each act targets 45-60 seconds.
 - Each act contains 5-8 scenes.
 
@@ -49,4 +37,39 @@ Target Release:
 - Complex act: 7 scenes
 - Absolute maximum: 8 scenes
 - More than 8 scenes requires restructuring
-- Emotional acts should avoid 8 scenes unless every scene is essential
+
+## Current Production Goal
+
+Complete the production-ready eight-act structure for
+Shadow of Oblivion before beginning detailed storyboards,
+anchor generation, or video production.
+
+## Repository Navigation
+
+- START_HERE.md: Resume and onboarding instructions
+- 01_Brand/: Brand identity
+- 02_Universe/: Aetheria and universe-level canon
+- 03_Recurring_Cast/: Narrator, audience, and Grand Library
+- 04_Worlds/: World story development
+- 05_Prologue/: Deferred franchise prologue
+- 06_Production/: Storyboard and production rules
+- 07_Producer/: Producer governance and project status
+
+## Current Active Files
+
+The current active development files are:
+
+- `04_Worlds/World_01_Shadow_of_Oblivion/01_Storyline.md`
+- `04_Worlds/World_01_Shadow_of_Oblivion/02_StoryRoadmap.md`
+- `04_Worlds/World_01_Shadow_of_Oblivion/03_Emotional_Journey.md`
+- `04_Worlds/World_01_Shadow_of_Oblivion/Act_Structure/`
+
+## Source of Truth
+
+The Git repository is the source of truth.
+
+AI conversations are working sessions and are not canon unless the
+approved decision is added to the repository.
+
+Greg is the Creative Director and final Canon Owner.
+``
