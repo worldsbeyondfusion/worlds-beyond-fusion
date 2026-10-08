@@ -28,6 +28,9 @@ Target Release:
 - 6 worlds
 - 30-60 second episodes
 - Realistic cinematic style
+- 1 world = 1 saga
+- 1 saga = exactly 8 acts
+- 1 act = 1 published short/video
 
 ## Release Format
 
