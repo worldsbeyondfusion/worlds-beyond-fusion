@@ -59,7 +59,7 @@ anchor generation, or video production.
 
 The current active development files are:
 
-- `04_Worlds/World_01_Shadow_of_Oblivion/01_Storyline.md`
+- `04_Worlds/World_01_Shadow_of_Oblivion/01_StoryLine.md`
 - `04_Worlds/World_01_Shadow_of_Oblivion/02_StoryRoadmap.md`
 - `04_Worlds/World_01_Shadow_of_Oblivion/03_Emotional_Journey.md`
 - `04_Worlds/World_01_Shadow_of_Oblivion/Act_Structure/`
