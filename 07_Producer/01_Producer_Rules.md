@@ -141,9 +141,9 @@ These rules are currently non-negotiable unless the Creative Director explicitly
 - One act equals one published video.
 - Two acts are published per week.
 - One world therefore runs for approximately four weeks.
-- Each act targets 47 to 60 seconds.
+- Each act targets 65 to 80 seconds.
 - Each act contains 5 to 8 scenes.
-- Eight scenes is the absolute maximum, not the target.
+- Twelve scenes is the absolute maximum, not the target.
 
 Recommended scene count:
 
@@ -152,7 +152,7 @@ Recommended scene count:
 - 7 scenes: complex act
 - 12 scenes: exceptional maximum requiring justification
 
-An act may exceed 60 seconds only when the narrative benefit clearly outweighs the retention and production cost. Any exception requires producer review and Creative Director approval.
+An act may exceed 80 seconds only when the narrative benefit clearly outweighs the retention and production cost. Any exception requires producer review and Creative Director approval.
 
 ---
 
