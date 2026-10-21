@@ -27,7 +27,7 @@ inside the Grand Library.
 - One act equals one published video.
 - Two acts are published per week.
 - One saga runs for approximately four weeks.
-- Each act targets 47-60 seconds.
+- Each act targets 65-80 seconds.
 - Each act contains 5-8 scenes.
 
 ## Scene Limits
