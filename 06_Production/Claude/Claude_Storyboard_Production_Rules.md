@@ -59,16 +59,16 @@ The current release format is mandatory:
 - One act equals one published video.
 - Two acts are published per week.
 - One world therefore runs for approximately four weeks.
-- Each act should normally run for 45 to 60 seconds.
+- Each act should normally run for 65 to 80 seconds.
 - Each act should contain 5 to 8 scenes.
-- Eight scenes is the absolute maximum, not the preferred target.
+- Twelve scenes is the absolute maximum, not the preferred target.
 
 Recommended scene count:
 
 - 5 scenes: emotional, focused, or slower act
 - 6 scenes: normal act
 - 7 scenes: complex act
-- 8 scenes: exceptional maximum requiring strong justification
+- 12 scenes: exceptional maximum requiring strong justification
 
 Claude must not merge, remove, or add acts without explicit approval.
 
@@ -397,8 +397,8 @@ Claude must calculate the estimated duration of every shot and scene.
 
 The total estimated duration should be:
 
-- Target: 45 to 55 seconds
-- Acceptable: 45 to 60 seconds
+- Target: 47 to 55 seconds
+- Acceptable: 47 to 60 seconds
 - Over 60 seconds: requires explicit justification and producer approval
 
 The runtime calculation must include:
@@ -563,7 +563,7 @@ Canon preserved:
 Exactly one approved act storyboarded:
 Approved scene count respected:
 Maximum eight scenes respected:
-Runtime within 45-60 seconds:
+Runtime within 65-80 seconds:
 Primary emotional transition preserved:
 Mandatory visuals included:
 Previous-act connection preserved:
@@ -622,9 +622,9 @@ When using this file, Claude must follow this instruction:
 - One world contains exactly eight acts.
 - One act equals one published video.
 - Two acts are released per week.
-- Each act targets 45 to 60 seconds.
+- Each act targets 65 to 80 seconds.
 - Each act contains 5 to 8 scenes.
-- Eight scenes is the absolute maximum.
+- Twelve scenes is the absolute maximum.
 - Story structure must vary between worlds when appropriate.
 - Fusion placement may occur at the beginning, middle, or end depending on the approved story.
 - The narrator and audience framing must follow the approved franchise bible.
