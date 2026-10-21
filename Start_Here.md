@@ -12,7 +12,7 @@ The first active universe is Aetheria.
 ## Fixed Production Format
 
 - 1 world = 1 complete story
-- 1 world = exactly 8 acts
+- 1 world = Minimum 8 acts, must not longer than 12 acts
 - 1 act = 1 published video
 - 1 act = 47-60 seconds
 - 1 act = 5-8 scenes
