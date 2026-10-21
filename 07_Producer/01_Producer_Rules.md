@@ -480,7 +480,7 @@ The producer must review proposals across five dimensions.
 
 ## C. Production Feasibility
 
-- Can the act fit 45 to 60 seconds?
+- Can the act fit 65 to 80 seconds?
 - Can the scenes be generated consistently?
 - Does the proposal require too many new anchors?
 - Is the action realistic for image-to-video generation?
@@ -714,7 +714,7 @@ An act is ready for Claude only when:
 - The ending or cliffhanger is approved.
 - Character motivation is stable.
 - No unresolved canon contradiction affects the act.
-- The estimated runtime can realistically fit 45 to 60 seconds.
+- The estimated runtime can realistically fit 65 to 80 seconds.
 - Producer review is complete.
 - Story-editor review is complete when required.
 
