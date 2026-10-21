@@ -26,9 +26,9 @@ The following production rules are approved and must not be changed during onboa
 - One act equals one published video.
 - Two acts are published per week.
 - One saga is published over approximately four weeks.
-- Each act targets 45 to 60 seconds.
+- Each act targets 65 to 80 seconds.
 - Each act contains 5 to 8 scenes.
-- Eight scenes is the absolute maximum, not the target.
+- Twelve scenes is the absolute maximum, not the target.
 - Fusion placement may differ by world. A fusion may appear at the beginning, middle, or end.
 - Different worlds must not be forced into the same narrative structure.
 - Emotional valleys and breathing room must be preserved where required.
