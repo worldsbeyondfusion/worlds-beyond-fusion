@@ -137,11 +137,11 @@ The producer must not push Worlds 5 and 6 into detailed development while World 
 These rules are currently non-negotiable unless the Creative Director explicitly changes them:
 
 - One world equals one complete story or saga.
-- One world contains exactly eight acts.
+- One world contains minimum eight acts and maximum 12 acts.
 - One act equals one published video.
 - Two acts are published per week.
 - One world therefore runs for approximately four weeks.
-- Each act targets 45 to 60 seconds.
+- Each act targets 47 to 60 seconds.
 - Each act contains 5 to 8 scenes.
 - Eight scenes is the absolute maximum, not the target.
 
@@ -150,7 +150,7 @@ Recommended scene count:
 - 5 scenes: emotional, focused, or slower act
 - 6 scenes: normal act
 - 7 scenes: complex act
-- 8 scenes: exceptional maximum requiring justification
+- 12 scenes: exceptional maximum requiring justification
 
 An act may exceed 60 seconds only when the narrative benefit clearly outweighs the retention and production cost. Any exception requires producer review and Creative Director approval.
 
