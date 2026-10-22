@@ -10,13 +10,13 @@
 
 ## Act Metadata
 
-* **Act Purpose:** Resolve the misunderstanding between Ceruledge and Darkrai through observable actions rather than dialogue or arbitrary combat, depict Froslass's grief halting the fight, present the erasure of a second settlement, and establish an uneasy truce as both recognize the true threat in the sky (Yveltal).
+* **Act Purpose:** Resolve the misunderstanding between Ceruledge and Darkrai through observable actions rather than dialogue. Demonstrate Ceruledge's desperation to protect the massive crowd of survivors and Darkrai's restraint in combat. Present the erasure of a second settlement and establish an uneasy truce as both recognize the true threat in the sky (Yveltal).
 
-* **Audience Knowledge:** Ceruledge misinterprets Darkrai's presence and rage roar as the cause of the disaster; Ceruledge attacks first to protect Froslass; Darkrai remains focused on the sky and exhibits clear restraint and protection; Froslass's grief breaks the conflict; a second distant town is erased by the mist; Ceruledge and Darkrai spot Yveltal's silhouette and form a silent, provisional alignment.
+* **Audience Knowledge:** Ceruledge misinterprets Darkrai's presence as the cause of the disaster; Ceruledge attacks first to protect Froslass and the massive crowd of refugees; Darkrai remains focused on the sky and exhibits clear restraint; Froslass's grief breaks the conflict; a second distant town is erased by the mist; Ceruledge and Darkrai spot Yveltal's silhouette and form a silent, provisional alignment to protect the throne room.
 
 * **Primary Character:** Ceruledge / Darkrai
 
-* **Secondary Character:** Froslass, Yveltal (silhouette)
+* **Secondary Character:** Froslass, Yveltal (silhouette), The Refugee Crowd
 
 * **Threat Presence:** Creeping Black Mist / Yveltal
 
@@ -24,19 +24,19 @@
 
 ### Scene 1: The Continuing Echo
 
-* **Purpose:** Seamlessly bridge the act boundary from Act 2 and establish Ceruledge's protective suspicion.
+* **Purpose:** Seamlessly bridge the act boundary from Act 2 and establish Ceruledge's protective suspicion over the refugees.
 
-* **Characters:** Ceruledge, Darkrai, Froslass
+* **Characters:** Ceruledge, Darkrai, Froslass, The Refugee Crowd
 
 * **Primary Character:** Ceruledge
 
 * **Location:** Ruined throne room
 
-* **What Changes:** Ceruledge locks onto Darkrai as the primary suspect behind the kingdom's destruction.
+* **What Changes:** Ceruledge locks onto Darkrai as the primary suspect threatening the remaining survivors.
 
-* **Scene Action:** Darkrai's distorted roar from Act 2 continues seamlessly across the act boundary. Ceruledge stands protectively in front of the weeping Froslass and Solgaleo's petrified stone form. Surveying the ruined sanctuary and seeing this ominous, roaring Dark-type in the center of the devastation, Ceruledge forms a swift, mistaken assumption: Darkrai is the cause.
+* **Scene Action:** Darkrai's distorted roar from Act 2 continues seamlessly across the act boundary. Ceruledge stands fiercely in front of the weeping Froslass, the massive crowd of huddled refugees, and Solgaleo's petrified statue. Surveying the ruined sanctuary and seeing this ominous, roaring Dark-type in the center of the devastation, Ceruledge forms a swift, mistaken assumption: Darkrai is the cause and is about to finish them off.
 
-* **Key Visual:** Ceruledge taking a low defensive stance in front of Froslass, visor locked onto Darkrai's shadowy form.
+* **Key Visual:** Ceruledge taking a low defensive stance in front of a sea of terrified refugees, visor locked onto Darkrai's shadowy form.
 
 * **Audience Emotion:** Tension, suspense, tragic irony.
 
@@ -52,9 +52,9 @@
 
 ### Scene 2: Strike First
 
-* **Purpose:** Show Ceruledge initiating combat out of desperate protective motivation.
+* **Purpose:** Show Ceruledge initiating combat out of desperate protective motivation to keep the threat away from the crowd.
 
-* **Characters:** Ceruledge, Darkrai
+* **Characters:** Ceruledge, Darkrai, The Refugee Crowd (Background)
 
 * **Primary Character:** Ceruledge
 
@@ -62,27 +62,27 @@
 
 * **What Changes:** Tense suspicion erupts into physical confrontation.
 
-* **Scene Action:** Unwilling to lose any more survivors, Ceruledge ignites both arm blades with bright flame and lunges forward in a high-speed strike. Darkrai, still fixated on the collapsing ceiling and dark sky above, is caught off-guard by the sudden, aggressive assault from inside the hall.
+* **Scene Action:** Unwilling to let the roaring entity near the terrified refugees, Ceruledge ignites both arm blades with bright flame and lunges forward in a high-speed strike to draw aggro. Darkrai, still fixated on the collapsing ceiling and dark sky above, is caught off-guard by the sudden, aggressive assault from inside the hall.
 
-* **Key Visual:** Dual burning blades cutting through drifting dust as Ceruledge closes the distance toward Darkrai.
+* **Key Visual:** Dual burning blades cutting through drifting dust as Ceruledge closes the distance toward Darkrai, leaving the huddled crowd in the background.
 
 * **Audience Emotion:** Adrenaline, urgency, apprehension.
 
 * **Emotional Transition:** Defensive fear escalating into desperate aggression.
 
-* **Connection from Previous Scene:** Follows immediately from Ceruledge's suspicion in Scene 1.
+* **Connection from Previous Scene:** Follows immediately from Ceruledge's protective stance in Scene 1.
 
 * **Connection to Next Scene:** Escalates into the physical parrying in Scene 3.
 
-* **Connection to Act 4:** Demonstrates Ceruledge's combat readiness and protective instinct.
+* **Connection to Act 4:** Demonstrates Ceruledge's combat readiness and self-sacrificing instinct.
 
 * **Estimated Duration:** 10 seconds
 
 ### Scene 3: Conflicting Priorities
 
-* **Purpose:** Highlight Darkrai's lack of malice toward Ceruledge and his total fixation on the external threat.
+* **Purpose:** Highlight Darkrai's lack of malice toward Ceruledge and his careful spatial awareness to avoid hurting the refugees.
 
-* **Characters:** Ceruledge, Darkrai
+* **Characters:** Ceruledge, Darkrai, The Refugee Crowd (Background)
 
 * **Primary Character:** Darkrai
 
@@ -90,9 +90,9 @@
 
 * **What Changes:** The clash reveals a fundamental mismatch in priorities between the two combatants.
 
-* **Scene Action:** Ceruledge presses a rapid series of blade strikes. Darkrai glides backward effortlessly, parrying the blows with dark, ethereal energy, but his eye repeatedly drifts upward toward the sky. He makes no effort to counter-attack or speak, treating Ceruledge's assault as a secondary nuisance compared to the storm above.
+* **Scene Action:** Ceruledge presses a rapid series of blade strikes. Darkrai glides backward effortlessly, parrying the blows with dark, ethereal energy, making sure to angle his deflections away from the cowering crowd. His eye repeatedly drifts upward toward the sky. He makes no effort to counter-attack or speak, treating Ceruledge's assault as a secondary nuisance compared to the storm above.
 
-* **Key Visual:** Darkrai deflecting a flaming blade swipe while gazing over Ceruledge's shoulder at the dark clouds.
+* **Key Visual:** Darkrai deflecting a flaming blade swipe while gazing over Ceruledge's shoulder at the dark clouds, ensuring the sparks don't hit the refugees behind them.
 
 * **Audience Emotion:** Heightened tension, realization of Darkrai's true focus.
 
@@ -108,19 +108,19 @@
 
 ### Scene 4: Observable Restraint
 
-* **Purpose:** Provide undeniable physical evidence that disproves Ceruledge's assumption.
+* **Purpose:** Provide undeniable physical evidence that disproves Ceruledge's assumption, showing Darkrai protecting the crowd.
 
-* **Characters:** Ceruledge, Darkrai, Froslass
+* **Characters:** Ceruledge, Darkrai, Froslass, The Refugee Crowd
 
 * **Primary Character:** Darkrai / Ceruledge
 
 * **Location:** Ruined throne room floor
 
-* **What Changes:** Ceruledge experiences cognitive dissonance as Darkrai chooses protection over violence.
+* **What Changes:** Ceruledge experiences cognitive dissonance as Darkrai chooses to shield the survivors over winning the fight.
 
-* **Scene Action:** Ceruledge overextends on a heavy downward strike, leaving his defenses completely open. Darkrai easily catches Ceruledge's burning wrist, nullifying the attack. Instead of striking back, Darkrai shoves Ceruledge back toward Froslass, simultaneously raising a shadowy barrier to deflect a falling stone beam from the crumbling ceiling, shielding both survivors.
+* **Scene Action:** Ceruledge overextends on a heavy downward strike, leaving his defenses completely open. Darkrai easily catches Ceruledge's burning wrist, nullifying the attack. Instead of striking back, Darkrai shoves Ceruledge backward, simultaneously raising a massive shadowy barrier to deflect a falling stone beam from the crumbling ceiling, shielding Froslass and the front rows of the refugee crowd from being crushed.
 
-* **Key Visual:** Darkrai holding Ceruledge's wrist firmly with one hand while casting a shadow shield over Froslass with the other.
+* **Key Visual:** Darkrai holding Ceruledge's wrist firmly with one hand while casting a wide shadow shield over the terrified crowd with the other.
 
 * **Audience Emotion:** Surprise, cognitive relief.
 
@@ -130,15 +130,15 @@
 
 * **Connection to Next Scene:** Halts the fight, allowing Froslass to step in and shift focus in Scene 5.
 
-* **Connection to Act 4:** Breaks down the hostility between the two, laying the foundation for cooperative defense in Act 4.
+* **Connection to Act 4:** Breaks down the hostility between the two, laying the foundation for cooperative defense.
 
 * **Estimated Duration:** 10 seconds
 
 ### Scene 5: The Second Erasure
 
-* **Purpose:** End the fight through Froslass's emotional intervention and reveal the ongoing scale of the tragedy.
+* **Purpose:** End the fight through Froslass's emotional intervention and reveal the ongoing scale of the tragedy to everyone.
 
-* **Characters:** Froslass, Ceruledge, Darkrai
+* **Characters:** Froslass, Ceruledge, Darkrai, The Refugee Crowd
 
 * **Primary Character:** Froslass
 
@@ -146,9 +146,9 @@
 
 * **What Changes:** Internal conflict ceases entirely; complete focus shifts back to the external catastrophe.
 
-* **Scene Action:** Froslass glides between Ceruledge and Darkrai, silently shaking her head with icy tears in her eyes. Ceruledge lowers his blades, flames dimming. Darkrai turns and points out toward the horizon through the shattered wall: far in the distance, a second peaceful settlement is quietly swallowed and erased by the creeping black mist.
+* **Scene Action:** Froslass glides between Ceruledge and Darkrai, silently shaking her head with icy tears in her eyes. Ceruledge lowers his blades, flames dimming. Darkrai turns and points out toward the horizon through the shattered wall. The crowd of refugees gasps collectively: far in the distance, a second peaceful settlement is quietly swallowed and erased by the creeping black mist.
 
-* **Key Visual:** The three survivors standing side-by-side at the broken edge, watching a distant town vanish into silent fog.
+* **Key Visual:** Ceruledge and Darkrai standing beside Froslass at the broken edge, watching a distant town vanish, while the massive crowd behind them watches in silent horror.
 
 * **Audience Emotion:** Heavy sorrow, chilling dread.
 
@@ -164,19 +164,19 @@
 
 ### Scene 6: The Shadow in the Sky
 
-* **Purpose:** Reveal the true threat behind the mist (Yveltal) based on prior glimpses, establishing an uneasy truce.
+* **Purpose:** Reveal the true threat behind the mist (Yveltal), establishing an uneasy truce with the crowd cowering behind them.
 
-* **Characters:** Ceruledge, Darkrai, Yveltal (silhouette)
+* **Characters:** Ceruledge, Darkrai, Yveltal (silhouette), The Refugee Crowd
 
 * **Primary Character:** Ceruledge / Darkrai
 
 * **Location:** Ruined throne room overlook
 
-* **What Changes:** An implicit, silent alliance is forged against the true god-tier enemy.
+* **What Changes:** An implicit, silent alliance is forged to protect the room from the true god-tier enemy.
 
-* **Scene Action:** High above the newly erased settlement, the black storm clouds part briefly. The colossal, unmistakable silhouette of Yveltal glides silently through the upper atmosphere. Ceruledge looks up, recognizing the shape from an earlier encounter outside the kingdom, and glances at Darkrai. The two stand side-by-side in silent, cold resolve.
+* **Scene Action:** High above the newly erased settlement, the black storm clouds part briefly. The colossal, unmistakable silhouette of Yveltal glides silently through the upper atmosphere. The refugees whimper and shrink back toward Solgaleo's statue. Ceruledge looks up, recognizing the shape from an earlier encounter, and glances at Darkrai. The two warriors step forward side-by-side, forming a silent, united vanguard between the sky and the crowd.
 
-* **Key Visual:** Yveltal's massive silhouette framed against the dark sky, its reflection visible in Ceruledge's visor and Darkrai's eye.
+* **Key Visual:** Yveltal's massive silhouette framed against the dark sky, with Ceruledge and Darkrai standing as a tiny but resolute frontline protecting the massive crowd behind them.
 
 * **Audience Emotion:** Chilling awe, solemn resolve, excitement for the coming fight.
 
@@ -194,12 +194,12 @@
 
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus | 
 | ----- | ----- | ----- | ----- | ----- | 
-| **Scene 1** | The Continuing Echo | 10s | 10s | Continuity & mistaken suspicion | 
+| **Scene 1** | The Continuing Echo | 10s | 10s | Continuity & mistaken suspicion over crowd | 
 | **Scene 2** | Strike First | 10s | 20s | Ceruledge initiates protective strike | 
-| **Scene 3** | Conflicting Priorities | 12s | 32s | Physical clash & Darkrai's sky fixation | 
-| **Scene 4** | Observable Restraint | 10s | 42s | Darkrai's protection disproves guilt | 
-| **Scene 5** | The Second Erasure | 13s | 55s | Froslass intervention & 2nd town loss | 
-| **Scene 6** | The Shadow in the Sky | 8s | 63s | Yveltal reveal & uneasy alliance | 
+| **Scene 3** | Conflicting Priorities | 12s | 32s | Physical clash & Darkrai's spatial awareness | 
+| **Scene 4** | Observable Restraint | 10s | 42s | Darkrai shields the frontline refugees | 
+| **Scene 5** | The Second Erasure | 13s | 55s | Froslass intervention & crowd witnesses loss | 
+| **Scene 6** | The Shadow in the Sky | 8s | 63s | Yveltal reveal & united frontline | 
 | **Hold/UI** | Transitions & Ending Hold | \~2s | **65s** | Final video completion padding | 
 
 *Note: Visual action and voiceover/narration run concurrently and are counted as a single unified runtime.*

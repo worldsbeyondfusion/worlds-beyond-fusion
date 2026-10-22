@@ -10,13 +10,13 @@
 
 ## Act Metadata
 
-* **Act Purpose:** Detail the failure of the Golden Kingdom's barrier, demonstrate Solgaleo's physical collapse and final petrification sacrifice, depict Togepi's irreversible loss in accordance with survival rules, establish Darkrai's independent arrival driven by tunnel-vision rage toward the external threat, and set up Ceruledge's mistaken suspicion leading into Act 3.
+* **Act Purpose:** Detail the failure of the Golden Kingdom's barrier, demonstrate Solgaleo's physical collapse and final petrification sacrifice to save a crowd of refugees, depict Togepi's irreversible loss in accordance with survival rules, establish Darkrai's independent arrival driven by tunnel-vision rage, and set up Ceruledge's mistaken suspicion leading into Act 3.
 
-* **Audience Knowledge:** Ceruledge returns independently to the kingdom seeking refuge; Solgaleo reaches his absolute physical limit maintaining the barrier; Darkrai arrives separately, silent and consumed by rage at the external threat; the barrier shatters completely; Solgaleo petrifies into stone to shield mixed-types (Ceruledge & Froslass); Togepi dissolves into mist due to survival rules; Darkrai unleashes a rage roar that Ceruledge misinterprets as hostile intent.
+* **Audience Knowledge:** Ceruledge returns independently to the kingdom seeking refuge; Solgaleo reaches his absolute physical limit maintaining the barrier over a diverse crowd of refugees; Darkrai arrives separately, silent and consumed by rage at the external threat; the barrier shatters completely; Solgaleo petrifies into stone to shield the mixed-element refugees; Togepi dissolves into mist due to survival rules; Darkrai unleashes a rage roar that Ceruledge misinterprets as hostile intent.
 
 * **Primary Character:** Solgaleo / Ceruledge
 
-* **Secondary Character:** Froslass, Togepi, Darkrai
+* **Secondary Character:** Froslass, Togepi, Darkrai, The Refugee Crowd
 
 * **Threat Presence:** Creeping Black Mist (Oblivion)
 
@@ -52,29 +52,29 @@
 
 ### Scene 2: The Fading Light
 
-* **Purpose:** Establish throne room geography, key character positions, and Solgaleo’s physical breaking point.
+* **Purpose:** Establish throne room geography, the sheer number of lives at stake, and Solgaleo’s physical breaking point.
 
-* **Characters:** Solgaleo, Ceruledge, Froslass, Togepi
+* **Characters:** Solgaleo, Ceruledge, Froslass, Togepi, Mixed-Element Refugees
 
 * **Primary Character:** Solgaleo
 
 * **Location:** The royal throne room / central dais
 
-* **What Changes:** Solgaleo’s power reaches its absolute breaking point as dark mist seeps through cracks in the vaulted ceiling.
+* **What Changes:** Solgaleo’s power reaches its absolute breaking point as dark mist seeps through cracks in the vaulted ceiling above a crowded sanctuary.
 
-* **Scene Action:** Ceruledge enters the central hall. Nearby, Froslass is crouched protectively, holding Togepi in her arms. At the center of the dais, Solgaleo kneels, his golden light dimming dramatically as dark mist begins to seep down through cracks in the vaulted ceiling. Solgaleo struggles to remain upright, his body trembling violently.
+* **Scene Action:** Ceruledge enters the central hall. The room is packed with a diverse, huddled crowd of exhausted mixed-element refugees. Near the front of the crowd, Froslass is crouched protectively, holding Togepi in her arms. At the center of the dais, Solgaleo kneels, his golden light dimming dramatically as dark mist begins to seep down through cracks in the vaulted ceiling. Solgaleo struggles to remain upright, his body trembling violently under the weight of protecting everyone.
 
-* **Key Visual:** Solgaleo kneeling on the dais, his radiant aura flickering like a dying flame while Froslass holds Togepi close.
+* **Key Visual:** Solgaleo kneeling on the dais, his radiant aura flickering like a dying flame, surrounded by a terrified, huddled mass of refugee Pokémon.
 
-* **Audience Emotion:** Tension, grief, helplessness.
+* **Audience Emotion:** Tension, overwhelming stakes, helplessness.
 
 * **Emotional Transition:** Dread shifting to tragic inevitability.
 
-* **Connection from Previous Scene:** Direct continuation as Ceruledge moves from the kingdom border into the central throne room.
+* **Connection from Previous Scene:** Direct continuation as Ceruledge moves from the kingdom border into the populated central throne room.
 
 * **Connection to Next Scene:** Sets up the physical space when Darkrai enters the upper archway in Scene 3.
 
-* **Connection to Act 3:** Establishes the presence and vulnerability of Froslass and Togepi in the room.
+* **Connection to Act 3:** Establishes the massive crowd of survivors that Ceruledge and Darkrai will ultimately protect.
 
 * **Estimated Duration:** 10 seconds
 
@@ -82,17 +82,17 @@
 
 * **Purpose:** Introduce Darkrai into the space with intense tunnel-vision focus, explaining his silence naturally through emotional fixation rather than invented rules.
 
-* **Characters:** Darkrai, Solgaleo, Ceruledge, Froslass
+* **Characters:** Darkrai, Solgaleo, Ceruledge, The Refugee Crowd
 
 * **Primary Character:** Darkrai
 
 * **Location:** Throne room threshold / high archway
 
-* **What Changes:** Darkrai enters the room but completely ignores the occupants due to his rage at the external threat.
+* **What Changes:** Darkrai enters the room but completely ignores the massive crowd due to his rage at the external threat.
 
-* **Scene Action:** Darkrai glides silently into the upper archway of the throne room. Consumed entirely by fierce anger toward the encroaching catastrophe, his gaze is locked exclusively on the collapsing ceiling and the dark mist pouring through. He does not speak or acknowledge Ceruledge or Froslass, completely fixated on the sky.
+* **Scene Action:** Darkrai glides silently into the upper archway of the throne room. Consumed entirely by fierce anger toward the encroaching catastrophe, his gaze is locked exclusively on the collapsing ceiling and the dark mist pouring through. He does not speak or acknowledge Ceruledge, Froslass, or the hundreds of refugees below, completely fixated on the sky.
 
-* **Key Visual:** Darkrai’s single glowing eye fixed upward on the black sky, oblivious to the Pokémon below.
+* **Key Visual:** Darkrai’s single glowing eye fixed upward on the black sky, oblivious to the sea of terrified Pokémon below.
 
 * **Audience Emotion:** Intrigue, apprehension.
 
@@ -102,25 +102,25 @@
 
 * **Connection to Next Scene:** Darkrai witnesses Solgaleo's final sacrifice in Scene 4.
 
-* **Connection to Act 3:** Explains Darkrai's silence and unresponsiveness, which Ceruledge misinterprets as ominous threat.
+* **Connection to Act 3:** Explains Darkrai's silence and unresponsiveness, which Ceruledge misinterprets as an ominous threat to the refugees.
 
 * **Estimated Duration:** 10 seconds
 
 ### Scene 4: The Final Sacrifice
 
-* **Purpose:** The barrier fails; Solgaleo sacrifices himself to shield the remaining inhabitants, demonstrating the survival of mixed-types.
+* **Purpose:** The barrier fails; Solgaleo sacrifices himself to shield the remaining inhabitants, demonstrating the survival of mixed-types en masse.
 
-* **Characters:** Solgaleo, Ceruledge, Froslass, Togepi
+* **Characters:** Solgaleo, Ceruledge, Froslass, Togepi, Mixed-Element Refugees
 
 * **Primary Character:** Solgaleo
 
 * **Location:** The throne room dais
 
-* **What Changes:** The barrier shatters completely; Solgaleo is petrified into white stone.
+* **What Changes:** The barrier shatters completely; Solgaleo is petrified into white stone to save the crowd.
 
-* **Scene Action:** The golden dome above shatters entirely. As the dark mist plunges into the hall, Solgaleo lets out a final, majestic roar and releases a blinding wave of golden energy. The blast temporarily pushes the mist back, enveloping Ceruledge and Froslass. When the brilliant light fades, Solgaleo stands frozen in place, entirely petrified into cracked white stone.
+* **Scene Action:** The golden dome above shatters entirely. As the dark mist plunges into the hall, Solgaleo lets out a final, majestic roar and releases a blinding wave of golden energy. The blast temporarily pushes the mist back, washing over Ceruledge, Froslass, and the entire huddled crowd of mixed-element refugees. When the brilliant light fades, Solgaleo stands frozen in place, entirely petrified into cracked white stone.
 
-* **Key Visual:** Solgaleo’s petrified stone form frozen mid-roar on the dais amid falling dust particles.
+* **Key Visual:** Solgaleo’s petrified stone form frozen mid-roar on the dais, shielding the massive crowd as dust particles drift through the hall.
 
 * **Audience Emotion:** Shock, awe, sorrow.
 
@@ -130,35 +130,35 @@
 
 * **Connection to Next Scene:** The light recedes, leading directly to the realization of Togepi's fate in Scene 5.
 
-* **Connection to Act 3:** Leaves Solgaleo petrified on the dais as permanent background context during the confrontation.
+* **Connection to Act 3:** Leaves Solgaleo petrified on the dais as a permanent monument to sacrifice.
 
 * **Estimated Duration:** 12 seconds
 
 ### Scene 5: The Empty Embrace
 
-* **Purpose:** Give Togepi’s irreversible loss dedicated emotional weight and demonstrate that non-Dark/Ghost types dissolve despite protective effort.
+* **Purpose:** Give Togepi’s irreversible loss dedicated emotional weight and demonstrate that pure types dissolve despite the localized protection.
 
-* **Characters:** Froslass, Ceruledge, Togepi (erased)
+* **Characters:** Froslass, Ceruledge, Togepi (erased), Mixed-Element Refugees
 
 * **Primary Character:** Froslass
 
 * **Location:** The throne room floor
 
-* **What Changes:** Togepi vanishes despite Solgaleo’s sacrifice; Froslass is left in total grief.
+* **What Changes:** Togepi vanishes despite Solgaleo’s sacrifice; Froslass is left in total grief amidst a surviving crowd.
 
-* **Scene Action:** The dust settles. Ceruledge and Froslass stir, surviving Solgaleo's surge. Froslass looks down at her arms to comfort Togepi, but her arms wrap around nothing—Togepi has dissolved into the mist, failing to meet the survival condition. Froslass freezes, staring at her empty hands, before collapsing into silent, shaking grief.
+* **Scene Action:** The dust settles. Ceruledge, Froslass, and the crowd of mixed-element refugees stir—they survived Solgaleo's surge. Froslass looks down at her arms to comfort Togepi, but her arms wrap around nothing—Togepi has dissolved into the mist, failing to meet the mixed-type survival condition. Froslass freezes, staring at her empty hands, before collapsing into silent, shaking grief as the other survivors look on in shock.
 
-* **Key Visual:** Froslass slumped on the floor, holding her arms in an empty, trembling embrace.
+* **Key Visual:** Froslass slumped on the floor, holding her arms in an empty, trembling embrace amidst a crowd of bewildered survivors.
 
 * **Audience Emotion:** Heartbreak, tragic realization.
 
-* **Emotional Transition:** Survival relief crushed by devastating, silent grief.
+* **Emotional Transition:** Survival relief crushed by devastating, localized grief.
 
 * **Connection from Previous Scene:** Immediate aftermath of Solgaleo's sacrifice as the dust clears.
 
 * **Connection to Next Scene:** Froslass's collapse triggers Darkrai's rage roar in Scene 6.
 
-* **Connection to Act 3:** Establishes Froslass's broken state, which motivates Ceruledge's protective stance and Froslass's later intervention in Act 3.
+* **Connection to Act 3:** Establishes Froslass's broken state amidst the survivors, motivating Ceruledge's protective stance over the crowd in Act 3.
 
 * **Estimated Duration:** 13 seconds
 
@@ -166,17 +166,17 @@
 
 * **Purpose:** Express Darkrai’s rage at the catastrophe and bridge directly into Act 3 across the act boundary.
 
-* **Characters:** Darkrai, Ceruledge
+* **Characters:** Darkrai, Ceruledge, The Refugee Crowd
 
 * **Primary Character:** Darkrai
 
 * **Location:** Throne room threshold / hall
 
-* **What Changes:** Darkrai erupts in rage; Ceruledge misinterprets Darkrai as the source of the tragedy.
+* **What Changes:** Darkrai erupts in rage; Ceruledge misinterprets Darkrai as the source of the tragedy threatening the refugees.
 
-* **Scene Action:** Seeing the petrified Solgaleo and Froslass’s empty embrace, Darkrai’s rage at the external threat boils over. He rears back and unleashes a massive, distorted roar that echoes through the ruins. Down below, Ceruledge snaps around, blades igniting with flame, glaring up at Darkrai and drawing a fatal, mistaken conclusion.
+* **Scene Action:** Seeing the petrified Solgaleo, the terrified refugees, and Froslass’s empty embrace, Darkrai’s rage at the external threat boils over. He rears back and unleashes a massive, distorted roar that echoes through the ruins. Down below, Ceruledge snaps around, blades igniting with flame, placing himself firmly between Darkrai and the vulnerable crowd, drawing a fatal, mistaken conclusion.
 
-* **Key Visual:** Darkrai roaring into the dark sky while Ceruledge’s flaming blades ignite in the foreground, locked on Darkrai.
+* **Key Visual:** Darkrai roaring into the dark sky while Ceruledge’s flaming blades ignite in the foreground, standing as a shield for the crowd behind him.
 
 * **Audience Emotion:** Fear, intense dramatic tension.
 
@@ -195,10 +195,10 @@
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus | 
 | ----- | ----- | ----- | ----- | ----- | 
 | **Scene 1** | The Desperate Return | 10s | 10s | Ceruledge arrival & shield degradation | 
-| **Scene 2** | The Fading Light | 10s | 20s | Geography & Solgaleo's breaking point | 
+| **Scene 2** | The Fading Light | 10s | 20s | Geography, massive crowd, & Solgaleo's limit | 
 | **Scene 3** | The Blind Arrival | 10s | 30s | Darkrai's arrival & tunnel-vision anger | 
 | **Scene 4** | The Final Sacrifice | 12s | 42s | Barrier collapse & Solgaleo petrification | 
-| **Scene 5** | The Empty Embrace | 13s | 55s | Togepi's loss & Froslass's grief | 
+| **Scene 5** | The Empty Embrace | 13s | 55s | Togepi's loss amidst the surviving crowd | 
 | **Scene 6** | The Roar of the Void | 8s | 63s | Emotional eruption & mistaken suspicion | 
 | **Hold/UI** | Transitions & Ending Hold | \~2s | **65s** | Final video completion padding | 
 
