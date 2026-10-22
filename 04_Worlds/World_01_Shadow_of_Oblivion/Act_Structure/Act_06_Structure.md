@@ -1,6 +1,6 @@
 # Act 6: The Darkedge
 
-**Status:** PROPOSED DRAFT — NOT CANON
+**Status:** Approved Draft - Ready for editing
 
 **Target Runtime:** 65–80 seconds
 
