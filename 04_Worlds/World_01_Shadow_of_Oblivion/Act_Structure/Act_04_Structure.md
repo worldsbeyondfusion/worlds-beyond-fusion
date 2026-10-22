@@ -1,6 +1,6 @@
 # Act 4: The Vanguard
 
-**Status:** PROPOSED DRAFT — NOT CANON
+**Status:** Approved Draft - Ready for editing
 
 **Target Runtime:** 65–80 seconds
 
