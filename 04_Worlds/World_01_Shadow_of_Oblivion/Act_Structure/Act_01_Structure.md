@@ -1,6 +1,6 @@
 # Act 1: The Last Light
 
-**Status:** APPROVED REVISION — READY FOR MOVE CANON & STORYBOARDING
+**Status:** PROPOSED REVISION
 
 **Target Runtime:** 65–80 seconds
 
@@ -12,7 +12,7 @@
 
 ## Act Metadata
 
-* **Act Purpose:** Establish the nature and scale of the creeping mist threat, introduce the contrast between the doomed outer world and the protected Golden Kingdom, establish emotional stakes through the companionship and erasure of Totodile, demonstrate the Dark/Ghost-type survival mechanic, and motivate Darkrai's journey to the kingdom.
+* **Act Purpose:** Establish the nature and scale of the creeping mist threat, introduce the contrast between the doomed outer world and the protected Golden Kingdom, establish emotional stakes through the companionship and erasure of Totodile, demonstrate the Dark/Ghost-type survival mechanic, and motivate Darkrai's journey to the kingdom. Establish the blood moon motif.
 * **Audience Knowledge:** The audience learns that an ancient mist is silently erasing settlements; outside the kingdom, only Dark and Ghost types survive the erasure; Solgaleo is straining to maintain a golden shield over an unaware kingdom; and Darkrai is traveling to the kingdom after witnessing the devastation.
 * **Primary Character:** Solgaleo
 * **Secondary Character:** Haunter, Mimikyu, Darkrai, Totodile
@@ -24,13 +24,13 @@
 
 ### Scene 1: The Distant Fall
 
-* **Purpose:** Establish the ancient threat organically through real-time observation rather than a supernatural vision or premonition.
+* **Purpose:** Establish the ancient threat organically through real-time observation rather than a supernatural vision or premonition. Establish the blood moon motif.
 * **Characters:** Solgaleo
 * **Primary Character:** Solgaleo
 * **Location:** The high overlook balcony of the Golden Kingdom
-* **What Changes:** Solgaleo witnesses the active destruction of a distant city in real time and realizes the ancient threat has returned.
-* **Scene Action:** Solgaleo stands on his high balcony, gazing out across the vast horizon. In the far distance, a sprawling city is quietly swallowed by a creeping, unnatural black mist. There are no explosions or fiery destruction—the city simply vanishes into dark fog. Solgaleo’s eyes widen as he witnesses the silent erasure in real time.
-* **Key Visual:** Reflection of the disappearing distant city in Solgaleo’s glowing eyes as the horizon fades to dark fog.
+* **What Changes:** Solgaleo witnesses the active destruction of a distant city in real time beneath a blood moon.
+* **Scene Action:** Solgaleo stands on his high balcony, gazing out across the vast horizon. High above, a looming blood moon casts an eerie red glow over the world. In the far distance, a sprawling city is quietly swallowed by a creeping, unnatural black mist. There are no explosions or fiery destruction—the city simply vanishes into dark fog. Solgaleo’s eyes widen as he witnesses the silent erasure in real time.
+* **Key Visual:** Reflection of the disappearing distant city and the crimson blood moon in Solgaleo’s glowing eyes.
 * **Audience Emotion:** Tension, awe, mounting dread.
 * **Emotional Transition:** Majestic vigilance to silent, grave realization.
 * **Connection from Previous Scene:** N/A (Saga opening beat).
@@ -116,11 +116,9 @@
 
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus |
 | :--- | :--- | :--- | :--- | :--- |
-| **Scene 1** | The Distant Fall | 12s | 12s | Threat establishment (Solgaleo) |
+| **Scene 1** | The Distant Fall | 12s | 12s | Threat establishment & blood moon (Solgaleo) |
 | **Scene 2** | The Silent Shield | 14s | 26s | World state & hidden strain |
 | **Scene 3** | The Innocent Bond | 15s | 41s | Character connection & stakes |
 | **Scene 4** | The Erasure | 12s | 53s | Survival mechanics & emotional loss |
 | **Scene 5** | The Traveler’s Decision | 10s | 63s | Motivation & forward momentum |
 | **Hold/UI** | Transitions & Ending Hold | ~2s | **65s** | Final video completion padding |
-
-*Note: Visual action and voiceover/narration run concurrently and are counted as a single unified runtime.*
