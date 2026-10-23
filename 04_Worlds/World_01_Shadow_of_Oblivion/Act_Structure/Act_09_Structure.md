@@ -1,205 +1,118 @@
-# Act 9: The Shattered Sky
+# Act 9: The Apparent Victory
 
-**Status:** PROPOSED DRAFT — NOT CANON
-
+**Status:** PROPOSED REVISION
 **Target Runtime:** 65–80 seconds
-
-**Planned Scene Action:** 63 seconds (leaves \~2s for visual holds and transitions)
-
+**Planned Scene Action:** 63 seconds (leaves ~2s for visual holds and transitions)
 **Scene Count:** 6 scenes
 
 ## Act Metadata
 
-* **Act Purpose:** Deliver the ultimate, tragic climax of the saga. Establish that a god of destruction cannot simply be killed or pushed away; it must be contained. Show Ceruledge and Darkrai paying the ultimate price, burning away their fusion and their lives to seal Yveltal, leaving a lasting legacy.
-
-* **Audience Knowledge:** Darkedge cannot destroy Yveltal without destroying the kingdom with it; the fusion deliberately chooses to act as a sacrificial lock; Yveltal is pulled into a void-seal; Ceruledge and Darkrai do not survive in their normal forms, becoming petrified obsidian statues; Froslass is left as the sole survivor and eternal keeper of the sealed ruins.
-
-* **Primary Character:** Darkedge
-
-* **Secondary Character:** Yveltal, Froslass
-
-* **Threat Presence:** Yveltal (Final Collision)
+*   **Act Purpose:** Resolve the immediate physical battle while revealing the true, underlying nature of the threat. Show Darkedge executing a coordinated, desperate counterattack to shatter Yveltal's physical form, only to discover that brute force cannot stop the resulting unanchored Oblivion mist from expanding toward the survivors.
+*   **Audience Knowledge:** Darkedge understands that simply blocking Yveltal's dive-bomb will eventually fail and wipe out the refugees; the fusion uses perfect coordination to counter the attack and destroy Yveltal's physical vessel; the victory is a hollow trap, as the dark mist immediately erupts from the fallen god; Darkedge makes the grim choice to step into the mist to contain it instead of fighting it.
+*   **Primary Character:** Darkedge
+*   **Secondary Character:** Yveltal, The Expanding Mist, Froslass
+*   **Threat Presence:** Yveltal / The Unanchored Mist
 
 ## Scene Breakdown
 
 ### Scene 1: The Oblivion Impact
 
-* **Purpose:** Deliver the physical impact of the Act 8 cliffhanger, showing a clash of pure, god-tier energy.
-
-* **Characters:** Darkedge, Yveltal
-
-* **Primary Character:** Darkedge / Yveltal
-
-* **Location:** Ruined throne room dais
-
-* **What Changes:** The dive-bomb connects, creating a localized singularity of conflicting energies that threatens to erase the continent.
-
-* **Scene Action:** Yveltal crashes down like a crimson meteor. Darkedge meets the impact head-on, thrusting both burning violet blades upward. The collision generates a blinding sphere of grinding red and violet energy that engulfs the center of the room. The sheer pressure begins disintegrating the very air around them, threatening to consume the entire kingdom in the blast.
-
-* **Key Visual:** A wide shot of the throne room entirely bathed in blinding, swirling red and violet light, with the tiny silhouette of Darkedge holding back the massive silhouette of Yveltal at the epicenter.
-
-* **Audience Emotion:** Breathless awe, ultimate suspense.
-
-* **Emotional Transition:** Epic dread freezing into a high-stakes, world-ending struggle.
-
-* **Connection from Previous Scene:** Direct, seamless continuation of the Act 8 final dive-bomb.
-
-* **Connection to Next Scene:** Leads to Darkedge's realization that brute force isn't enough in Scene 2.
-
-* **Connection to Act 10:** The sheer scale of this energy requires the ultimate sacrifice to contain.
-
-* **Estimated Duration:** 12 seconds
-
-### Scene 2: The Ethereal Matrix
-
-* **Purpose:** Darkedge shifts tactics from trying to repel the god to binding it, accepting the cost.
-
-* **Characters:** Darkedge, Yveltal
-
-* **Primary Character:** Darkedge
-
-* **Location:** The epicenter of the clash
-
-* **What Changes:** The battle changes from a clash of force to a sacrificial binding ritual.
-
-* **Scene Action:** Realizing that repelling the blast will obliterate Froslass and the continent, Darkedge makes a fatal choice. It suddenly drops its defensive guard. As Yveltal's crimson energy crashes into it, Darkedge reaches out, plunging its bare, spectral hands directly into Yveltal's chest. Violet fire and black shadow explode outward, weaving a massive, intricate geometric seal in the air around the struggling god.
-
-* **Key Visual:** Darkedge enduring the burning crimson energy, its arms buried in Yveltal's chest as a massive, glowing violet sealing-matrix forms around them both.
-
-* **Audience Emotion:** Shock, realization of the sacrifice, profound awe.
-
-* **Emotional Transition:** Desperate struggle shifting into a calm, resolute sacrifice.
-
-* **Connection from Previous Scene:** Darkedge abandons the defense from Scene 1 to initiate the seal.
-
-* **Connection to Next Scene:** The sealing process demands its toll in Scene 3.
-
-* **Connection to Act 10:** Establishes the mechanics of how the god is trapped.
-
-* **Estimated Duration:** 10 seconds
-
-### Scene 3: The Final Burn
-
-* **Purpose:** Visually confirm the death/sacrifice of the base characters within the fusion.
-
-* **Characters:** Ceruledge (Soul), Darkrai (Soul), Yveltal
-
-* **Primary Character:** Darkedge
-
-* **Location:** Inside the Ethereal Matrix
-
-* **What Changes:** The life forces of Ceruledge and Darkrai are entirely consumed to power the lock.
-
-* **Scene Action:** The camera pushes in close on Darkedge as the sealing matrix tightens. The fusion's physical armor begins to burn away into ash. Inside the blinding violet light, the translucent silhouettes of Ceruledge and Darkrai are briefly visible side-by-side. They look at each other, giving a final, synchronized nod of respect, before their glowing forms shatter into countless sparks of light to power the seal.
-
-* **Key Visual:** The glowing, ethereal silhouettes of Ceruledge and Darkrai fading into sparks of light inside the roaring violet furnace of the seal.
-
-* **Audience Emotion:** Heartbreak, profound respect, sorrow.
-
-* **Emotional Transition:** Resolute sacrifice turning into a beautiful, tragic farewell.
-
-* **Connection from Previous Scene:** The internal toll of the matrix established in Scene 2.
-
-* **Connection to Next Scene:** The completion of the seal.
-
-* **Connection to Act 10:** Finalizes the end of their character arcs.
-
-* **Estimated Duration:** 10 seconds
-
-### Scene 4: The Obsidian Anchor
-
-* **Purpose:** Conclude the climax. Yveltal is sealed, and the physical remnants of the heroes are left behind.
-
-* **Characters:** Yveltal (Sealed)
-
-* **Primary Character:** The Seal
-
-* **Location:** Ruined throne room dais
-
-* **What Changes:** The god is pulled into the void; the threat of Oblivion is neutralized.
-
-* **Scene Action:** With the life forces consumed, the geometric seal snaps shut. Yveltal lets out a final, distorted shriek before its massive body is violently compressed and sucked into a singularity on the dais floor. The singularity implodes with a silent flash of light. When the dust clears, Yveltal is gone. In the center of the room stands a massive, jagged spike of pitch-black obsidian glass—the eternal lock. 
-
-* **Key Visual:** A blinding implosion shrinking into a single point, leaving behind a jagged, smoking obsidian spike driven deep into the shattered dais.
-
-* **Audience Emotion:** Stunning silence, heavy realization.
-
-* **Emotional Transition:** Tragic farewell settling into cold, permanent stillness.
-
-* **Connection from Previous Scene:** The physical result of the final burn in Scene 3.
-
-* **Connection to Next Scene:** Allows the lone survivor to emerge in the quiet aftermath.
-
-* **Connection to Act 10:** The obsidian spike becomes the new centerpiece of the ruins.
-
-* **Estimated Duration:** 11 seconds
-
-### Scene 5: The Keeper of the Void
-
-* **Purpose:** Reintroduce Froslass as the sole survivor and witness to the sacrifice.
-
-* **Characters:** Froslass
-
-* **Primary Character:** Froslass
-
-* **Location:** Ruined throne room dais
-
-* **What Changes:** Froslass accepts her new role as the guardian of the sealed ruins.
-
-* **Scene Action:** From behind the untouched, white-stone legs of the petrified Solgaleo, Froslass slowly floats out. The throne room is completely leveled and eerily quiet. She glides over to the massive obsidian spike. Embedded in the base of the black glass are the burnt, fractured remnants of Ceruledge's blades. Froslass kneels before the seal, bowing her head in eternal mourning and gratitude.
-
-* **Key Visual:** Froslass kneeling in the ashes before the jagged obsidian spike, with the burnt remnants of Ceruledge's blades resting at its base.
-
-* **Audience Emotion:** Bittersweet grief, quiet reverence.
-
-* **Emotional Transition:** Permanent stillness softening into eternal gratitude.
-
-* **Connection from Previous Scene:** Follows the immediate aftermath of the seal.
-
-* **Connection to Next Scene:** Leads to the final atmospheric cooldown.
-
-* **Connection to Act 10:** Establishes Froslass's ultimate fate in the narrative.
-
-* **Estimated Duration:** 10 seconds
-
-### Scene 6: A Costly Dawn
-
-* **Purpose:** End the act on a poetic, visually stunning contrast to the dark destruction of the saga.
-
-* **Characters:** Froslass, (Petrified Solgaleo), (Obsidian Seal)
-
-* **Primary Character:** The Environment
-
-* **Location:** Ruined throne room (Vista)
-
-* **What Changes:** The unnatural storm breaks, bringing light back to a changed world.
-
-* **Scene Action:** As Froslass kneels, the heavy, blood-red storm clouds above finally crack and begin to dissolve. A single, brilliant shaft of natural sunlight pierces the gloom, illuminating the white stone of Solgaleo and the black glass of the Darkedge seal. The kingdom is dead, its protectors are gone, but the world is safe. The camera slowly pulls back, leaving Froslass alone in the light.
-
-* **Key Visual:** A brilliant ray of golden sunlight breaking through the dark clouds, striking the twin monuments—Solgaleo's white stone and the dark obsidian spike—as Froslass kneels between them.
-
-* **Audience Emotion:** Profound peace, tragic beauty, closure.
-
-* **Emotional Transition:** Quiet reverence elevating into a poetic, haunting resolution.
-
-* **Connection from Previous Scene:** Matches the emotional stillness of Scene 5 with an environmental shift.
-
-* **Connection to Next Scene:** N/A (The core narrative of the World is resolved).
-
-* **Connection to Act 10:** Leaves Acts 10–12 open for epilogues, the Narrator's wrap-up in the Grand Library, or a transition to the next World.
-
-* **Estimated Duration:** 10 seconds
+*   **Purpose:** The physical clash of god and fusion, picking up exactly from the Act 8 cliffhanger.
+*   **Characters:** Darkedge, Yveltal
+*   **Primary Character:** Darkedge / Yveltal
+*   **Location:** Ruined throne room dais
+*   **What Changes:** The dive-bomb connects, creating a localized singularity of conflicting energies.
+*   **Scene Action:** Yveltal crashes down like a crimson meteor. Darkedge meets the impact head-on, thrusting both burning violet blades upward. The collision generates a blinding, grinding sphere of red and violet energy that threatens to disintegrate the very air around the dais. The sheer force begins pushing Darkedge backward toward the huddling refugees.
+*   **Key Visual:** A wide shot of the throne room entirely bathed in blinding, swirling red and violet light, with the tiny silhouette of Darkedge holding back the massive silhouette of Yveltal at the epicenter.
+*   **Audience Emotion:** Breathless awe, ultimate suspense.
+*   **Emotional Transition:** Epic dread freezing into a high-stakes, world-ending struggle.
+*   **Connection from Previous Scene:** Direct, seamless continuation of the Act 8 final dive-bomb.
+*   **Connection to Next Scene:** Forces Darkedge to realize blocking will get the refugees killed.
+*   **Estimated Duration:** 12 seconds
+
+### Scene 2: The Coordinated Counter
+
+*   **Purpose:** Darkedge realizes blocking will fail and chooses a risky, perfectly coordinated counter-attack utilizing both halves of the fusion.
+*   **Characters:** Darkedge, Yveltal
+*   **Primary Character:** Darkedge
+*   **Location:** The epicenter of the clash
+*   **What Changes:** Darkedge abandons defense for a desperate, lethal strike.
+*   **Scene Action:** The crushing pressure is unsustainable; the crimson blast begins bleeding past Darkedge toward the refugees. Operating in perfect unison, Darkedge suddenly drops its guard. It uses Darkrai's shadow-evasion to slip just outside the epicenter of the crush, instantly pivoting to channel all of Ceruledge's fiery, forward momentum into a massive upper-cleave directly through Yveltal's descending form.
+*   **Key Visual:** Darkedge blinking out of the beam's path and instantly driving a massive, blazing violet blade upward through Yveltal's crimson aura.
+*   **Audience Emotion:** Adrenaline, intense thrill.
+*   **Emotional Transition:** Desperate struggle turning into surgical, aggressive risk.
+*   **Connection from Previous Scene:** The tactical shift from Scene 1.
+*   **Connection to Next Scene:** The physical payoff of the cleave.
+*   **Estimated Duration:** 10 seconds
+
+### Scene 3: The Fall of the God
+
+*   **Purpose:** Yveltal is physically defeated, offering a brief, apparent victory.
+*   **Characters:** Darkedge, Yveltal
+*   **Primary Character:** Yveltal
+*   **Location:** Ruined throne room
+*   **What Changes:** The god of destruction is physically grounded and shattered.
+*   **Scene Action:** The violet blade cleanly severs the crimson aura. Yveltal lets out a fractured, distorted cry as the kinetic force of its own dive-bomb is turned against it. The colossal god crashes violently into the far end of the ruined hall, carving a trench through the stone. Its physical form is shattered and motionless. The chaotic energy dies down, and the dust settles.
+*   **Key Visual:** Yveltal lying motionless in a massive crater at the far end of the hall, its crimson aura entirely extinguished.
+*   **Audience Emotion:** Massive relief, triumph.
+*   **Emotional Transition:** Adrenaline spiking into sudden, breathless victory.
+*   **Connection from Previous Scene:** The direct result of Darkedge's counter.
+*   **Connection to Next Scene:** Subverts the victory instantly.
+*   **Estimated Duration:** 10 seconds
+
+### Scene 4: The Unbound Threat
+
+*   **Purpose:** Reveal that defeating the vessel did not eliminate the catastrophe.
+*   **Characters:** Darkedge, The Expanding Mist
+*   **Primary Character:** The Mist
+*   **Location:** Ruined throne room
+*   **What Changes:** The Oblivion force, stripped of its host, begins expanding uncontrollably.
+*   **Scene Action:** Relief is painfully brief. From Yveltal’s shattered, motionless form, the creeping black mist suddenly erupts. Without a vessel to anchor it, the mist violently expands outward like a tidal wave, moving faster than before. High above, the storm clouds part just enough to reveal the blood moon, bathing the expanding nightmare in an eerie red glow.
+*   **Key Visual:** A massive, terrifying wall of black mist erupting from the fallen god and sweeping across the ruins beneath the red light of the blood moon.
+*   **Audience Emotion:** Shock, renewed panic, despair.
+*   **Emotional Transition:** Breathless victory instantly crushed by an unstoppable reality.
+*   **Connection from Previous Scene:** Reintroduces the primary threat in a worse form.
+*   **Connection to Next Scene:** Forces Darkedge to reevaluate its options.
+*   **Estimated Duration:** 11 seconds
+
+### Scene 5: The Bitter Realization
+
+*   **Purpose:** The realization that brute force cannot fix this problem; you cannot slice a fog.
+*   **Characters:** Darkedge, The Expanding Mist
+*   **Primary Character:** Darkedge
+*   **Location:** Ruined throne room dais
+*   **What Changes:** Darkedge accepts that conventional combat is useless.
+*   **Scene Action:** Darkedge stands before the oncoming tidal wave of dark mist. The fusion raises its blazing violet blades, preparing to strike, but then slowly lowers them. The ethereal fire sputters. Combat cannot cut a fog. To generate an explosion large enough to destroy this much ambient energy would obliterate the entire kingdom and the refugees huddled behind them.
+*   **Key Visual:** Darkedge slowly lowering its glowing weapons as the massive wall of dark fog bears down on the tiny dais.
+*   **Audience Emotion:** Helplessness, tragic understanding.
+*   **Emotional Transition:** Panic settling into cold, analytical defeat.
+*   **Connection from Previous Scene:** The logical response to the tidal wave of mist.
+*   **Connection to Next Scene:** Prompts the decision that bridges into Act 10.
+*   **Estimated Duration:** 10 seconds
+
+### Scene 6: The Ultimate Choice
+
+*   **Purpose:** End the act on an emotional cliffhanger as Darkedge prepares to sacrifice itself for containment.
+*   **Characters:** Darkedge, Froslass
+*   **Primary Character:** Darkedge
+*   **Location:** Ruined throne room dais
+*   **What Changes:** Darkedge willingly walks to its own death to save the survivors.
+*   **Scene Action:** Darkedge looks over its shoulder one last time, making eye contact with a terrified Froslass holding the front line of the refugees. The fusion gives a final, barely perceptible nod. Turning its back to the survivors, Darkedge walks directly toward the epicenter of the expanding mist, throwing its arms wide open to embrace the devastating force rather than fight it.
+*   **Key Visual:** The silhouette of Darkedge walking calmly into the roaring, massive wall of black mist with its arms wide open.
+*   **Audience Emotion:** Heartbreak, extreme suspense, respect.
+*   **Emotional Transition:** Analytical defeat transforming into profound, self-sacrificing resolve.
+*   **Connection from Previous Scene:** The culmination of realizing they cannot fight the mist.
+*   **Connection to Act 10:** Bridges directly into the sealing matrix and sacrifice of Act 10.
+*   **Estimated Duration:** 10 seconds
 
 ## Runtime Audit & Summary Table
 
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus | 
 | ----- | ----- | ----- | ----- | ----- | 
 | **Scene 1** | The Oblivion Impact | 12s | 12s | The catastrophic collision | 
-| **Scene 2** | The Ethereal Matrix | 10s | 22s | Darkedge initiates the sealing ritual | 
-| **Scene 3** | The Final Burn | 10s | 32s | Ceruledge & Darkrai's souls are consumed | 
-| **Scene 4** | The Obsidian Anchor | 11s | 43s | Yveltal is sealed into black glass | 
-| **Scene 5** | The Keeper of the Void | 10s | 53s | Froslass mourns at the seal | 
-| **Scene 6** | A Costly Dawn | 10s | 63s | Sunlight hits the tragic monuments | 
-| **Hold/UI** | Transitions & Ending Hold | \~2s | **65s** | Final video completion padding | 
-
-*Note: Visual action and voiceover/narration run concurrently and are counted as a single unified runtime.*
+| **Scene 2** | The Coordinated Counter | 10s | 22s | Darkedge evades and counters | 
+| **Scene 3** | The Fall of the God | 10s | 32s | Yveltal's physical vessel is shattered | 
+| **Scene 4** | The Unbound Threat | 11s | 43s | Mist erupts from the fallen god | 
+| **Scene 5** | The Bitter Realization | 10s | 53s | Darkedge realizes force won't work | 
+| **Scene 6** | The Ultimate Choice | 10s | 63s | Darkedge walks into the mist to seal it | 
+| **Hold/UI** | Transitions & Ending Hold | \~2s | **65s** | Final video completion padding |
