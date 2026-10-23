@@ -12,8 +12,8 @@ Use this checklist before approving an act.
 
 ## Scene Control
 
-- [ ] The act contains 5-8 scenes.
-- [ ] Eight scenes is not exceeded.
+- [ ] The act contains 5-12 scenes.
+- [ ] Twelve scenes is not exceeded.
 - [ ] Every scene changes something.
 - [ ] No two scenes perform the same function.
 - [ ] Every scene has a key visual.
@@ -30,7 +30,7 @@ Use this checklist before approving an act.
 
 ## Production Reality
 
-- [ ] The act can fit within 45-60 seconds.
+- [ ] The act can fit within 65-90 seconds.
 - [ ] The runtime includes narration and transitions.
 - [ ] Complicated actions can be generated reliably.
 - [ ] The act does not require excessive new anchors.
