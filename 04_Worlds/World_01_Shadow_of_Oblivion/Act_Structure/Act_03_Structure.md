@@ -1,6 +1,6 @@
 # Act 3: The Misunderstanding
 
-**Status:** APPROVED REVISION — READY FOR MOVE CANON & STORYBOARDING
+**Status:** WORKING DRAFT — NOT YET APPROVED BY GREG
 
 **Target Runtime:** 65–80 seconds
 
