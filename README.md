@@ -23,12 +23,12 @@ inside the Grand Library.
 ## Release Format
 
 - One world equals one complete saga.
-- One saga contains exactly eight acts.
+- One saga contains eight to twelve acts.
 - One act equals one published video.
-- Two acts are published per week.
+- Two or three acts are published per week.
 - One saga runs for approximately four weeks.
 - Each act targets 65-80 seconds.
-- Each act contains 5-8 scenes.
+- Each act contains 5-12 scenes.
 
 ## Scene Limits
 
