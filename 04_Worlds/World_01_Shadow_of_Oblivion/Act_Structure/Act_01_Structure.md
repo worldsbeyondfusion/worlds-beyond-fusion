@@ -1,6 +1,6 @@
 # Act 1: The Last Light
 
-**Status:** PROPOSED REVISION
+**Status:** APPROVED BY GREG — MOVE CANON REVIEW PENDING
 
 **Target Runtime:** 70–80 seconds
 
