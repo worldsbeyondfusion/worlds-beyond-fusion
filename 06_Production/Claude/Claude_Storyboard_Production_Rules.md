@@ -55,12 +55,12 @@ If two approved documents conflict, Claude must stop and report the conflict ins
 The current release format is mandatory:
 
 - One world equals one complete story.
-- One world contains exactly eight acts.
+- One world contains between eight to twelve acts.
 - One act equals one published video.
-- Two acts are published per week.
+- Two or three acts are published per week.
 - One world therefore runs for approximately four weeks.
 - Each act should normally run for 65 to 80 seconds.
-- Each act should contain 5 to 8 scenes.
+- Each act should contain 5 to 12 scenes.
 - Twelve scenes is the absolute maximum, not the preferred target.
 
 Recommended scene count:
@@ -397,9 +397,9 @@ Claude must calculate the estimated duration of every shot and scene.
 
 The total estimated duration should be:
 
-- Target: 47 to 55 seconds
-- Acceptable: 47 to 60 seconds
-- Over 60 seconds: requires explicit justification and producer approval
+- Target: 65 to 90 seconds
+- Acceptable: 63 to 80 seconds
+- Over 90 seconds: requires explicit justification and producer approval
 
 The runtime calculation must include:
 
@@ -562,7 +562,7 @@ Claude must answer each item with Pass, Fail, or Producer Review Required.
 Canon preserved:
 Exactly one approved act storyboarded:
 Approved scene count respected:
-Maximum eight scenes respected:
+Maximum twelve scenes respected:
 Runtime within 65-80 seconds:
 Primary emotional transition preserved:
 Mandatory visuals included:
@@ -584,9 +584,9 @@ Production risks identified:
 Claude must create this section whenever:
 
 - Canon documents conflict
-- Runtime cannot realistically remain under 60 seconds
+- Runtime cannot realistically fit 65-80 seconds
 - An approved scene requires technically unreliable generation
-- The act has more than eight scenes
+- The act has more than twelve scenes
 - A character motivation is unclear
 - The emotional transition is unsupported
 - The connection between acts is missing
@@ -621,9 +621,9 @@ When using this file, Claude must follow this instruction:
 
 - One world contains exactly eight acts.
 - One act equals one published video.
-- Two acts are released per week.
+- Two to three acts are released per week.
 - Each act targets 65 to 80 seconds.
-- Each act contains 5 to 8 scenes.
+- Each act contains 5 to 12 scenes.
 - Twelve scenes is the absolute maximum.
 - Story structure must vary between worlds when appropriate.
 - Fusion placement may occur at the beginning, middle, or end depending on the approved story.
