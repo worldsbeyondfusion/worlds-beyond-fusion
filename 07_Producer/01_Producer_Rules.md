@@ -142,7 +142,7 @@ These rules are currently non-negotiable unless the Creative Director explicitly
 - Two acts are published per week.
 - One world therefore runs for approximately four weeks.
 - Each act targets 65 to 80 seconds.
-- Each act contains 5 to 8 scenes.
+- Each act contains 5 to 12 scenes.
 - Twelve scenes is the absolute maximum, not the target.
 
 Recommended scene count:
@@ -539,7 +539,7 @@ Immediate sequence:
 1. Complete emotional transitions and scene connections for Acts 1 and 2.
 2. Stabilize Act 3 and its transition into Act 4.
 3. Structure Acts 4 through 8 using the same template.
-4. Review all eight acts as one emotional and causal journey.
+4. Review all acts as one emotional and causal journey.
 5. Let Gemini revise the canonical storyline from the approved architecture.
 6. Let ChatGPT perform editorial review.
 7. Approve and commit the final storyline.
@@ -718,7 +718,7 @@ An act is ready for Claude only when:
 - Producer review is complete.
 - Story-editor review is complete when required.
 
-A complete world is ready for storyboard production only when all eight acts are sufficiently stable to avoid major downstream rewrites.
+A complete world is ready for storyboard production only when all acts are sufficiently stable to avoid major downstream rewrites.
 
 ---
 
