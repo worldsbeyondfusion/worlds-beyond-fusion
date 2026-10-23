@@ -25,6 +25,6 @@ Before generating video assets, break down each episode into a technical shot li
 
 ### Phase 3: Post-Production & Assembly (The Edits)
 * **Audio is King:** With no dialogue, sound design carries the emotional weight. Lock down tracklists early (music box for Eps 1, choir for Eps 2, cello for Eps 8).
-* **Pacing:** Keep Episodes 1-6 tight (45-60 seconds). Let Episode 7 break the rule and breathe for the extended action sequence. Cut Episode 7 abruptly to silence, and let Episode 8 run slow and atmospheric.
+* **Pacing:** Keep Episodes 1-6 tight (65-80 seconds). Let Episode 7 break the rule and breathe for the extended action sequence. Cut Episode 7 abruptly to silence, and let Episode 8 run slow and atmospheric.
 
 
