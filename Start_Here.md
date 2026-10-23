@@ -15,7 +15,7 @@ The first active universe is Aetheria.
 - 1 world = Minimum 8 acts, must not longer than 12 acts
 - 1 act = 1 published video
 - 1 act = 65-80 seconds
-- 1 act = 5-8 scenes
+- 1 act = 5-12 scenes
 - 2 acts published per week MINIMUM, MAX 3 acts
 - 1 world published over approximately 4 weeks
 
@@ -78,7 +78,7 @@ Production has not started.
 
 ## Current Priority
 
-Complete detailed structures for all eight acts.
+Complete detailed structures for all acts.
 
 Each scene must define:
 
