@@ -92,12 +92,12 @@
 
 ### Scene 5: The Void in the Mind
 
-* **Purpose:** Introduce Darkrai, reveal the localized memory-warping nature of the mist on lesser Pokémon, and establish Darkrai's immense perception.
+* **Purpose:** Introduce Darkrai, reveal the unsettling memory-warping anomaly in lesser Pokémon, and establish Darkrai's investigation.
 * **Characters:** Darkrai, Haunter, Poochyena
 * **Primary Character:** Darkrai
 * **Location:** The exposed settlement courtyard
-* **What Changes:** Darkrai discovers that the mist leaves unnatural gaps in memory, prompting his investigation.
-* **Scene Action:** Darkrai glides silently into the ruined courtyard, stopping before the survivors. Haunter weeps openly over the drifting dust of Mimikyu, its grief clear and focused—it remembers its lost friend. Nearby, Poochyena whines softly, instinctively guarding the worn Totodile plushie between its paws, but its eyes dart around in confusion. It feels a profound sadness but cannot explain why the doll matters. Intrigued, Darkrai extends a shadowy hand, using his connection to dreams to peer into the pup’s mind. He does not find a complete erasure; instead, he encounters an unnatural, static-filled gap where a memory should be. Faint emotional impressions of warmth and playfulness remain tethered to the doll, but the physical memory of Totodile is entirely inaccessible. Darkrai’s eye narrows as he suspects the dark-red mist is fracturing memories as well as physical existence, though the full extent remains unknown to him.
+* **What Changes:** Darkrai discovers an unnatural gap in Poochyena's memory, suspecting the mist erases more than just physical bodies.
+* **Scene Action:** Darkrai glides silently into the ruined courtyard and observes a stark contrast between the survivors. Haunter weeps openly over Mimikyu's drifting dust, its grief clear and focused on the friend it remembers losing. Nearby, Poochyena displays a quiet, unexplained sadness, instinctively guarding the worn Totodile plushie without understanding why the doll matters or what feels missing. Intrigued, Darkrai extends a shadowy hand, using his connection to dreams to investigate Poochyena's mind. Inside, he finds no definitive explanation—only an unnatural, static-filled gap where experiences should be. Faint emotional impressions of warmth and playfulness remain tethered to the doll, but the corresponding memories are entirely inaccessible. Darkrai’s eye narrows as he suspects the dark-red mist is erasing memories alongside physical existence, uncovering a disturbing anomaly rather than a full explanation.
 * **Key Visual:** Darkrai’s glowing eye narrowing in realization as he holds a shadowy hand near the confused Poochyena's head, contrasting with Haunter's focused grief in the background.
 * **Audience Emotion:** Chilling realization, deep intrigue.
 * **Emotional Transition:** Raw grief shifting into psychological mystery.
@@ -114,7 +114,7 @@
 * **Primary Character:** Darkrai
 * **Location:** Edge of the erased settlement overlooking the horizon
 * **What Changes:** Darkrai shifts from an investigator to an active traveler seeking answers and a way to stop the threat.
-* **Scene Action:** Pulling his hand away from Poochyena, Darkrai turns his back on the grieving survivors and glides to the edge of the ruins. He gazes out across the devastated landscape toward the horizon. There, the shimmering golden dome of Solgaleo’s barrier stands firm, actively holding off the dark-red sky and resisting the creeping mist. Recognizing the barrier as a vital lead rather than just another target, Darkrai realizes the answers to stopping this force must lie within that sanctuary. His eye flares with sharp, purposeful anger. He turns and glides rapidly toward the distant golden light, seeking the truth behind the erasure.
+* **Scene Action:** Pulling his hand away from Poochyena, Darkrai leaves the survivors and glides to the edge of the ruins. He gazes out across the devastated landscape toward the horizon. There, the shimmering golden dome of Solgaleo’s barrier stands firm, actively resisting the dark-red sky and the creeping mist. Prompted by his disturbing discovery of the memory gaps, Darkrai recognizes the barrier as a crucial lead. If the dome can successfully hold back the catastrophe, it may hold the answers he needs to understand the mist's nature and stop the force responsible. His eye flares with sharp, purposeful anger. He turns and glides rapidly toward the distant golden light, seeking the truth.
 * **Key Visual:** Darkrai’s glowing eye burning brightly against the dark-red fog, with the distant golden dome actively resisting the crimson sky on the horizon.
 * **Audience Emotion:** Determination, grim hope.
 * **Emotional Transition:** Psychological mystery to purposeful, focused resolve.
@@ -132,6 +132,6 @@
 | **Scene 2** | The Innocent Bond | 15s | 27s | Character connection & stakes |
 | **Scene 3** | The Erasure | 12s | 39s | Survival mechanics & emotional loss |
 | **Scene 4** | The Silent Shield | 14s | 53s | World state & hidden strain |
-| **Scene 5** | The Void in the Mind | 12s | 65s | Darkrai discovers the memory wipe |
+| **Scene 5** | The Void in the Mind | 12s | 65s | Darkrai discovers the memory anomaly |
 | **Scene 6** | The Traveler’s Decision | 8s | 73s | Motivation & forward momentum |
 | **Hold/UI** | Transitions & Ending Hold | ~2s | **75s** | Final video completion padding |
