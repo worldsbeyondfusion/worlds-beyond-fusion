@@ -2,21 +2,21 @@
 
 **Status:** PROPOSED REVISION
 
-**Target Runtime:** 65–80 seconds
+**Target Runtime:** 70–80 seconds
 
-**Planned Scene Action:** 63 seconds (leaves ~2s for visual holds and transitions)
+**Planned Scene Action:** 73 seconds (leaves ~2s for visual holds and transitions)
 
-**Scene Count:** 5 scenes
+**Scene Count:** 6 scenes
 
 ---
 
 ## Act Metadata
 
-* **Act Purpose:** Establish the nature and scale of the creeping mist threat, introduce the contrast between the doomed outer world and the protected Golden Kingdom, establish emotional stakes through the companionship and erasure of Totodile, demonstrate the Dark/Ghost-type survival mechanic, and motivate Darkrai's journey to the kingdom. Establish the blood moon motif.
-* **Audience Knowledge:** The audience learns that an ancient mist is silently erasing settlements; outside the kingdom, only Dark and Ghost types survive the erasure; Solgaleo is straining to maintain a golden shield over an unaware kingdom; and Darkrai is traveling to the kingdom after witnessing the devastation.
-* **Primary Character:** Solgaleo
-* **Secondary Character:** Haunter, Mimikyu, Darkrai, Totodile
-* **Threat Presence:** Creeping Black Mist (the manifestation of Oblivion)
+* **Act Purpose:** Establish the creeping mist threat, introduce the contrast between the doomed outer world and the protected Golden Kingdom, establish emotional stakes through the erasure of Totodile and Mimikyu, demonstrate the pure Dark/Ghost-type survival mechanic, reveal the memory-wiping nature of the mist, and motivate Darkrai's journey to the kingdom. Establish the blood moon motif and the mist's dark-red color.
+* **Audience Knowledge:** The audience learns the ancient mist is silently erasing settlements and memories; only pure Dark and pure Ghost types survive; Solgaleo is straining to maintain a shield; and Darkrai, immune to the memory wipe, travels to the kingdom after witnessing the true horror of the erasure.
+* **Primary Character:** Solgaleo / Darkrai
+* **Secondary Character:** Haunter, Poochyena, Mimikyu, Totodile
+* **Threat Presence:** Creeping Dark-Red Mist (the manifestation of Yveltal's Oblivion)
 
 ---
 
@@ -24,91 +24,103 @@
 
 ### Scene 1: The Distant Fall
 
-* **Purpose:** Establish the ancient threat organically through real-time observation rather than a supernatural vision or premonition. Establish the blood moon motif.
+* **Purpose:** Establish the ancient threat organically through real-time observation. Establish the blood moon motif and the mist's visual connection to Yveltal.
 * **Characters:** Solgaleo
 * **Primary Character:** Solgaleo
 * **Location:** The high overlook balcony of the Golden Kingdom
 * **What Changes:** Solgaleo witnesses the active destruction of a distant city in real time beneath a blood moon.
-* **Scene Action:** Solgaleo stands on his high balcony, gazing out across the vast horizon. High above, a looming blood moon casts an eerie red glow over the world. In the far distance, a sprawling city is quietly swallowed by a creeping, unnatural black mist. There are no explosions or fiery destruction—the city simply vanishes into dark fog. Solgaleo’s eyes widen as he witnesses the silent erasure in real time.
-* **Key Visual:** Reflection of the disappearing distant city and the crimson blood moon in Solgaleo’s glowing eyes.
+* **Scene Action:** Solgaleo stands on his high balcony, gazing out across the vast horizon. High above, a looming blood moon casts an eerie red glow over the world. In the far distance, a sprawling city is quietly swallowed by a creeping, unnatural dark-red mist. There are no explosions or fiery destruction—the city simply vanishes into the heavy dark-red fog. Solgaleo’s eyes widen as he witnesses the silent erasure in real time.
+* **Key Visual:** Reflection of the disappearing distant city and the dark-red mist in Solgaleo’s glowing eyes.
 * **Audience Emotion:** Tension, awe, mounting dread.
 * **Emotional Transition:** Majestic vigilance to silent, grave realization.
 * **Connection from Previous Scene:** N/A (Saga opening beat).
-* **Connection to Next Scene:** Solgaleo's realization directly triggers his decision to project the golden dome over his kingdom in Scene 2.
-* **Connection to Act 2:** Establishes Solgaleo's protective instinct and sets up the heavy physical burden that leads to his eventual exhaustion and petrification in Act 2.
+* **Connection to Next Scene:** The camera plunges rapidly from Solgaleo's high vantage point across the horizon, zooming directly into the distant, doomed settlement to focus on the four playing Pokémon in Scene 2.
 * **Estimated Duration:** 12 seconds
 
 ---
 
-### Scene 2: The Silent Shield
+### Scene 2: The Innocent Bond
 
-* **Purpose:** Establish the creation of the golden barrier, Solgaleo’s hidden physical cost, and the kingdom's blissfully unaware safety.
-* **Characters:** Solgaleo, resident kingdom Pokémon
-* **Primary Character:** Solgaleo
-* **Location:** Upper plazas and sky above the Golden Kingdom
-* **What Changes:** The kingdom is sealed by a protective dome; its citizens gain safety without knowing the danger, while Solgaleo absorbs the immense physical toll alone.
-* **Scene Action:** Solgaleo ignites with radiant energy, projecting a massive golden dome that sweeps across the sky and seals the kingdom. Below, resident Pokémon stop their routine activities to look up in awe and quiet curiosity, admiring the shimmering canopy as a grand spectacle. On his high balcony, Solgaleo’s legs tremble and his light flickers as he absorbs the immense strain, keeping the true threat and his sacrifice hidden from his people.
-* **Key Visual:** Resident Pokémon gazing up in peaceful wonder at the shimmering golden sky, contrasted with Solgaleo’s hidden, trembling posture above.
-* **Audience Emotion:** Wonder laced with underlying anxiety.
-* **Emotional Transition:** Peaceful curiosity below; silent, heavy burden above.
-* **Connection from Previous Scene:** Direct response to Solgaleo witnessing the distant destruction in Scene 1.
-* **Connection to Next Scene:** Shifts perspective away from the protected kingdom to an exposed outer settlement where three companions are playing in Scene 3.
-* **Connection to Act 2:** Establishes the barrier's open refuge function and Solgaleo's baseline exhaustion, explaining why Ceruledge can enter freely and why Solgaleo collapses in Act 2.
-* **Estimated Duration:** 14 seconds
-
----
-
-### Scene 3: The Innocent Bond
-
-* **Purpose:** Establish the deep emotional bond between Haunter, Totodile, and Mimikyu before catastrophe strikes, making Totodile's impending loss meaningful.
-* **Characters:** Haunter, Totodile, Mimikyu
+* **Purpose:** Establish the deep emotional bond between Haunter, Poochyena, Totodile, and Mimikyu before catastrophe strikes.
+* **Characters:** Haunter, Poochyena, Totodile, Mimikyu
 * **Primary Character:** Haunter
 * **Location:** Dusty courtyard of an exposed settlement outside the kingdom’s barrier
-* **What Changes:** Establishes a warm, carefree baseline of companionship that will soon be broken by the mist.
-* **Scene Action:** Haunter, Totodile, and Mimikyu are playing together in a dusty courtyard, laughing and passing around a worn Totodile plushie. The atmosphere is warm and carefree. Unbeknownst to them, the sky behind the surrounding buildings darkens as cold, ink-black mist begins to spill quietly into the streets.
-* **Key Visual:** The three friends huddling together in joyful play while dark mist rolls silently down the alleyway behind them.
+* **What Changes:** Establishes a warm, carefree baseline of companionship.
+* **Scene Action:** Haunter, Totodile, Mimikyu, and Poochyena are playing together in a dusty courtyard. Poochyena happily bounds around as the others laugh and pass around a worn Totodile plushie. The atmosphere is warm and carefree. Unbeknownst to them, the sky behind the surrounding buildings darkens as cold, dark-red mist begins to spill quietly into the streets, bearing the unmistakable hue of Yveltal's aura.
+* **Key Visual:** The four friends huddling together in joyful play while thick, dark-red mist rolls silently down the alleyway behind them.
 * **Audience Emotion:** Warmth, affection, foreboding tragedy.
 * **Emotional Transition:** Carefree happiness to subtle, looming threat.
-* **Connection from Previous Scene:** Cuts from the safe, protected kingdom in Scene 2 to an unprotected outer settlement vulnerable to the mist.
-* **Connection to Next Scene:** The arrival of the mist sets up the erasure event in Scene 4.
-* **Connection to Act 2:** Establishes the baseline emotional tragedy of erasure, mirroring Froslass's loss of Togepi in Act 2.
+* **Connection from Previous Scene:** A rapid zoom from Solgaleo's distant observation in Scene 1 straight into the heart of the settlement.
+* **Connection to Next Scene:** The arrival of the mist sets up the immediate erasure event in Scene 3.
 * **Estimated Duration:** 15 seconds
 
 ---
 
-### Scene 4: The Erasure
+### Scene 3: The Erasure
 
-* **Purpose:** Visually demonstrate the survival rules (Dark/Ghost survival vs. non-Dark/Ghost erasure) and deliver the emotional payoff of Totodile's loss.
-* **Characters:** Haunter, Mimikyu, Totodile (erased)
+* **Purpose:** Visually demonstrate the survival rules and deliver the emotional payoff of the losses.
+* **Characters:** Haunter, Poochyena, Mimikyu (erased), Totodile (erased)
 * **Primary Character:** Haunter
 * **Location:** The exposed settlement courtyard/street
-* **What Changes:** Totodile ceases to exist; Haunter is left with empty grief and a plushie.
-* **Scene Action:** The mist rolls completely over the street and then recedes slightly. Haunter and Mimikyu remain standing, unharmed due to their Ghost typing. Totodile is gone—erased entirely without a trace. Haunter looks around in confusion, holding the plushie Totodile was just playing with, struggling to comprehend why its companion has vanished into thin air.
-* **Key Visual:** Haunter staring blankly at the plushie in its hands while Mimikyu huddles close in the quiet mist.
+* **What Changes:** Totodile ceases to exist instantly; Mimikyu gradually dissolves.
+* **Scene Action:** The dark-red mist rolls completely over the street and then recedes slightly. Haunter and Poochyena remain standing, unharmed due to their pure typings. Totodile is gone—erased entirely without a trace, leaving only the plushie dropping to the floor. Beside them, Mimikyu looks down in panic as the fabric of its disguise begins to fray and break apart. Small, glowing fragments peel away from its body, drifting into the dark-red mist. Haunter reaches out desperately, trying to hold its friend together, but Mimikyu dissolves completely into fine dust. Poochyena whimpers, backing away.
+* **Key Visual:** Haunter desperately reaching out as Mimikyu disintegrates into glowing dust, while Poochyena cowers nearby and the plushie lies abandoned.
 * **Audience Emotion:** Shock, sadness, sorrow.
 * **Emotional Transition:** Confusion to profound, empty grief.
-* **Connection from Previous Scene:** Direct continuation of Scene 3 as the creeping mist swallows the playing companions.
-* **Connection to Next Scene:** Haunter's grief and the empty settlement provide the observable evidence Darkrai discovers in Scene 5.
-* **Connection to Act 2:** Visually proves the rule that non-Dark/Ghost types vanish in the mist, establishing why Togepi vanishes in Act 2 while Froslass and Ceruledge survive Solgaleo's final surge.
+* **Connection from Previous Scene:** Direct continuation of Scene 2 as the creeping mist swallows the playing companions.
+* **Connection to Next Scene:** The tragic loss cuts sharply back to Solgaleo's reaction on the balcony, prompting the creation of the shield in Scene 4.
 * **Estimated Duration:** 12 seconds
 
 ---
 
-### Scene 5: The Traveler’s Decision
+### Scene 4: The Silent Shield
 
-* **Purpose:** Motivate Darkrai’s travel toward the Golden Kingdom after witnessing the aftermath of the mist.
-* **Characters:** Darkrai, Haunter (background)
+* **Purpose:** Establish the creation of the golden barrier, Solgaleo’s hidden physical cost, and the kingdom's blissfully unaware safety in direct response to the tragedy.
+* **Characters:** Solgaleo, resident kingdom Pokémon
+* **Primary Character:** Solgaleo
+* **Location:** Upper plazas and sky above the Golden Kingdom
+* **What Changes:** The kingdom is sealed by a protective dome; Solgaleo absorbs the immense physical toll alone.
+* **Scene Action:** Having just witnessed the devastating erasure, Solgaleo ignites with radiant energy, projecting a massive golden dome that sweeps across the sky and seals the kingdom. Below, resident Pokémon stop their routine activities to look up in awe and quiet curiosity. On his high balcony, Solgaleo’s legs tremble and his light flickers as he absorbs the immense strain, keeping the true threat hidden from his people.
+* **Key Visual:** Resident Pokémon gazing up in peaceful wonder at the shimmering golden sky, contrasted with Solgaleo’s hidden, trembling posture above.
+* **Audience Emotion:** Wonder laced with underlying anxiety.
+* **Emotional Transition:** Horror at the erasure forging into desperate, heavy protective burden.
+* **Connection from Previous Scene:** A direct, desperate reaction to the destruction witnessed in Scene 3.
+* **Connection to Next Scene:** The scene shifts back to the ruined settlement where Darkrai arrives in Scene 5.
+* **Estimated Duration:** 14 seconds
+
+---
+
+### Scene 5: The Void in the Mind
+
+* **Purpose:** Introduce Darkrai, reveal the memory-wiping nature of the mist on lesser Pokémon, and establish Darkrai's immense perception.
+* **Characters:** Darkrai, Haunter, Poochyena
+* **Primary Character:** Darkrai
+* **Location:** The exposed settlement courtyard
+* **What Changes:** Darkrai discovers that the mist erases not just bodies, but existence and memory itself.
+* **Scene Action:** Darkrai glides silently into the ruined courtyard, stopping before the survivors. Haunter is weeping over the plushie. Poochyena, however, is now tilting its head, sniffing the plushie with innocent confusion, its memory of its erased friends already gone. Darkrai’s eye narrows. He extends a shadowy hand, projecting his aura into Poochyena's mind. Inside the memory, Darkrai finds a terrifying, static-filled void where Totodile and Mimikyu used to be. As a mythic Dark-type, Darkrai's mind bridges the gap—he faintly recognizes the lost silhouettes of the erased Pokémon, understanding the true horror of what the mist does. 
+* **Key Visual:** Darkrai’s glowing eye widening in realization as he holds a shadowy hand near the confused Poochyena's head, the drifting dust of Mimikyu settling around them.
+* **Audience Emotion:** Chilling realization, deep intrigue.
+* **Emotional Transition:** Raw grief shifting into existential horror.
+* **Connection from Previous Scene:** Follows the raising of the shield in Scene 4, returning the focus to the surviving Pokémon in the ruins.
+* **Connection to Next Scene:** Provides the terrifying context that fuels Darkrai's decision in Scene 6.
+* **Estimated Duration:** 12 seconds
+
+---
+
+### Scene 6: The Traveler’s Decision
+
+* **Purpose:** Motivate Darkrai’s travel toward the Golden Kingdom after uncovering the truth of the mist.
+* **Characters:** Darkrai, Haunter (background), Poochyena (background)
 * **Primary Character:** Darkrai
 * **Location:** Edge of the erased settlement overlooking the horizon
-* **What Changes:** Darkrai shifts from an isolated observer to an active traveler heading toward the golden sanctuary.
-* **Scene Action:** Darkrai glides silently through the mist-laden ruins of the settlement, observing Haunter’s silent grief over the plushie. Darkrai turns his gaze toward the distant horizon and spots the shimmering golden dome of Solgaleo’s barrier holding off the dark sky. Darkrai’s eye narrows with sharp, focused anger. He turns and glides rapidly toward the distant golden light.
-* **Key Visual:** Darkrai’s glowing eye contrasting against the dark fog, with the distant golden dome reflected on the horizon.
-* **Audience Emotion:** Determination, grim hope, intrigue.
-* **Emotional Transition:** Cold observation to burning, focused resolve.
-* **Connection from Previous Scene:** Directly follows Scene 4 as Darkrai encounters the aftermath of Totodile's erasure.
-* **Connection to Next Scene:** Concludes Act 1 by launching Darkrai on his journey, setting up his independent arrival at the throne room in Act 2.
-* **Connection to Act 2:** Explains Darkrai's motivation for traveling to the kingdom independently of Ceruledge and establishes his hyper-focus on the external threat.
-* **Estimated Duration:** 10 seconds
+* **What Changes:** Darkrai shifts from an investigator to an active traveler seeking the source of the erasure.
+* **Scene Action:** Pulling his hand away from Poochyena, Darkrai turns his back on the grieving Haunter and the confused pup. He glides to the edge of the ruins, his gaze locking onto the distant horizon where the shimmering golden dome of Solgaleo’s barrier holds off the dark-red sky. Recognizing a sanctuary—and a potential target for the mist—Darkrai’s eye flares with sharp, focused anger. He turns and glides rapidly toward the distant golden light.
+* **Key Visual:** Darkrai’s glowing eye burning brightly against the dark-red fog, with the distant golden dome reflected on the horizon.
+* **Audience Emotion:** Determination, grim hope.
+* **Emotional Transition:** Existential horror to burning, focused resolve.
+* **Connection from Previous Scene:** The direct consequence of the memory discovery in Scene 5.
+* **Connection to Next Scene:** Concludes Act 1, setting up Darkrai's independent arrival at the throne room in Act 2.
+* **Estimated Duration:** 8 seconds
 
 ---
 
@@ -117,8 +129,9 @@
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **Scene 1** | The Distant Fall | 12s | 12s | Threat establishment & blood moon (Solgaleo) |
-| **Scene 2** | The Silent Shield | 14s | 26s | World state & hidden strain |
-| **Scene 3** | The Innocent Bond | 15s | 41s | Character connection & stakes |
-| **Scene 4** | The Erasure | 12s | 53s | Survival mechanics & emotional loss |
-| **Scene 5** | The Traveler’s Decision | 10s | 63s | Motivation & forward momentum |
-| **Hold/UI** | Transitions & Ending Hold | ~2s | **65s** | Final video completion padding |
+| **Scene 2** | The Innocent Bond | 15s | 27s | Character connection & stakes |
+| **Scene 3** | The Erasure | 12s | 39s | Survival mechanics & emotional loss |
+| **Scene 4** | The Silent Shield | 14s | 53s | World state & hidden strain |
+| **Scene 5** | The Void in the Mind | 12s | 65s | Darkrai discovers the memory wipe |
+| **Scene 6** | The Traveler’s Decision | 8s | 73s | Motivation & forward momentum |
+| **Hold/UI** | Transitions & Ending Hold | ~2s | **75s** | Final video completion padding |
