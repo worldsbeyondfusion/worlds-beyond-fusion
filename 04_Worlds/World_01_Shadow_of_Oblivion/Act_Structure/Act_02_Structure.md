@@ -1,6 +1,6 @@
 # Act 2: The Last Grace
 
-**Status:** APPROVED REVISION — READY FOR MOVE CANON & STORYBOARDING
+**Status:** WORKING DRAFT — NOT YET APPROVED BY GREG
 
 **Target Runtime:** 65–80 seconds
 
