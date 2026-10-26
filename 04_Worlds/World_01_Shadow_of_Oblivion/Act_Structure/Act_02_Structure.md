@@ -1,6 +1,6 @@
 # Act 2: The Last Grace
 
-**Status:** PROPOSED REVISION — AWAITING GREG APPROVAL
+**Status:** GREG APPROVED
 
 **Target Runtime:** 65–80 seconds
 
