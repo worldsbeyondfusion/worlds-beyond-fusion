@@ -1,6 +1,6 @@
 # Act 4: The Vanguard
 
-**Status:** WORKING DRAFT — NOT YET APPROVED BY GREG
+**Status:** APPROVED BY GREG
 
 **Target Runtime:** 65–80 seconds
 
@@ -10,21 +10,21 @@
 
 ## Act Metadata
 
-* **Act Purpose:** Escalate the narrative threat from a passive environmental hazard (the mist) to active, directed hostility. Force the uneasy truce between Ceruledge and Darkrai into a necessary, active combat alliance as they must work together to protect the remaining survivors from Yveltal's corrupted forces.
+* **Act Purpose:** Escalate the narrative threat from a passive environmental hazard to active hostility. Force the provisional alliance between Ceruledge and Darkrai into practical, active combat cooperation as they protect the remaining survivors from the emerging Vanguard forces.
 
-* **Audience Knowledge:** The mist is not just a hazard; it is controlled by Yveltal and conceals a hostile army (the Vanguard). Ceruledge and Darkrai are officially fighting on the same side. The ruined throne room is no longer a safe haven but a battleground.
+* **Audience Knowledge:** The dark-red mist conceals active, hostile forces (the Vanguard); Ceruledge and Darkrai are fighting side-by-side to hold the line; the ruined throne room is now an active battleground.
 
 * **Primary Character:** Ceruledge / Darkrai
 
 * **Secondary Character:** Froslass, The Corrupted Vanguard
 
-* **Threat Presence:** The Corrupted Vanguard (Mist-corrupted Pokémon forces)
+* **Threat Presence:** The Corrupted Vanguard (Mist-corrupted forces)
 
 ## Scene Breakdown
 
 ### Scene 1: The Sky Falls
 
-* **Purpose:** Immediately escalate the threat from the distant silhouette of Yveltal to an immediate, close-quarters danger.
+* **Purpose:** Immediately escalate the threat from distant observation to a close-quarters ambush, preserving the direct transition from Act 3.
 
 * **Characters:** Ceruledge, Darkrai, The Corrupted Vanguard
 
@@ -32,27 +32,27 @@
 
 * **Location:** Ruined throne room overlook
 
-* **What Changes:** The passive observation of the sky is broken by a sudden ambush.
+* **What Changes:** The provisional alliance is immediately tested as hostile figures emerge from the dark-red mist.
 
-* **Scene Action:** The massive silhouette of Yveltal disappears back into the storm clouds. Suddenly, the dark mist swirling around the ruined throne room violently coalesces. Grotesque, shadowy figures—the Corrupted Vanguard—drop from the shattered ceiling and the open overlook, surrounding the survivors. 
+* **Scene Action:** Continuing seamlessly from Act 3, Scene 6, the dark-red mist swirling around the ruined throne room violently thickens. Grotesque, shadowy figures emerge from the fog and drop from the shattered ceiling, ambushing the survivors and turning the overlook into a zone of immediate danger.
 
-* **Key Visual:** Shadowy, corrupted figures dropping through the broken golden canopy like rain, landing on the shattered dais.
+* **Key Visual:** Shadowy figures breaking through the dark-red fog, landing abruptly on the shattered dais.
 
 * **Audience Emotion:** Shock, sudden panic, adrenaline.
 
-* **Emotional Transition:** Solemn dread shattering into immediate survival instinct.
+* **Emotional Transition:** Solemn provisional readiness shattering into immediate survival instinct.
 
-* **Connection from Previous Scene:** Direct continuation of Act 3, Scene 6, breaking the silent truce with an immediate attack.
+* **Connection from Previous Scene:** Direct continuation of Act 3, Scene 6, breaking the silent truce with an immediate ambush.
 
-* **Connection to Next Scene:** Triggers the immediate defensive response in Scene 2.
+* **Connection to Next Scene:** Triggers Ceruledge's defensive response in Scene 2.
 
-* **Connection to Act 5:** Establishes the throne room as an active siege location.
+* **Connection to Act 5:** Establishes the throne room as an active combat zone.
 
 * **Estimated Duration:** 10 seconds
 
 ### Scene 2: Protect the Fallen
 
-* **Purpose:** Establish the Vanguard's lethal intent toward the vulnerable, forcing Ceruledge to act protectively.
+* **Purpose:** Establish Ceruledge's protective motivation clearly, keeping the focus grounded on defending Froslass and the area around Solgaleo's petrified statue.
 
 * **Characters:** Ceruledge, Froslass, The Corrupted Vanguard
 
@@ -60,27 +60,27 @@
 
 * **Location:** Ruined throne room floor
 
-* **What Changes:** Ceruledge establishes the defense of Froslass and Solgaleo's statue as the priority.
+* **What Changes:** Ceruledge establishes a defensive barrier to protect the living survivors and the space around Solgaleo's petrified form.
 
-* **Scene Action:** Several Corrupted Vanguard instantly target the grieving Froslass and the petrified statue of Solgaleo. Ceruledge dashes in front of them, igniting both blades with fierce, blazing fire. Ceruledge sweeps a wide arc of flame, pushing the immediate attackers back from the vulnerable center.
+* **Scene Action:** Several Vanguard attackers surge toward the grieving Froslass and the vulnerable survivors near Solgaleo's petrified statue. Ceruledge dashes in front of them, igniting both arm blades with fierce, blazing fire. He sweeps a wide arc of flame, forcing the immediate attackers back from the survivors.
 
-* **Key Visual:** Ceruledge standing as a fiery barricade over the weeping Froslass and the petrified Solgaleo.
+* **Key Visual:** Ceruledge standing as a fiery barricade over the weeping Froslass near the petrified Solgaleo statue.
 
 * **Audience Emotion:** Relief, heroic anticipation.
 
 * **Emotional Transition:** Ambush panic to fierce, protective defiance.
 
-* **Connection from Previous Scene:** Direct reaction to the Vanguard's arrival.
+* **Connection from Previous Scene:** Direct reaction to the Vanguard's arrival in Scene 1.
 
-* **Connection to Next Scene:** Leaves Ceruledge momentarily exposed, requiring Darkrai's intervention.
+* **Connection to Next Scene:** Leaves Ceruledge briefly engaged on one side, allowing Darkrai to intervene.
 
-* **Connection to Act 5:** Cements Ceruledge's role as the frontline defender of the survivors.
+* **Connection to Act 5:** Cements Ceruledge's role as the frontline protector of the survivors.
 
 * **Estimated Duration:** 10 seconds
 
 ### Scene 3: The Shadow's Reach
 
-* **Purpose:** Prove Darkrai's commitment to the alliance through active combat support.
+* **Purpose:** Reinforce the existing provisional alliance through practical combat support, showing Darkrai intervening to save Ceruledge from a flanking attack.
 
 * **Characters:** Darkrai, Ceruledge, The Corrupted Vanguard
 
@@ -88,27 +88,27 @@
 
 * **Location:** Ruined throne room floor
 
-* **What Changes:** Darkrai officially enters the fray on Ceruledge's side.
+* **What Changes:** Darkrai provides decisive combat support, reinforcing the alliance under pressure.
 
-* **Scene Action:** A Vanguard attacker flanks Ceruledge, preparing to strike his blind spot. Before the blow connects, a blast of dense, ethereal shadow violently intercepts the attacker, throwing it across the room. Ceruledge glances back to see Darkrai gliding forward, dark energy gathering in his hands, eyes locked on the corrupted forces.
+* **Scene Action:** A Vanguard attacker swings toward Ceruledge's blind spot from the side. Before the blow connects, a concentrated burst of ethereal shadow violently intercepts the attacker, hurling it across the room. Ceruledge glances back to see Darkrai gliding forward, dark energy flaring as he covers the flank.
 
-* **Key Visual:** Darkrai blasting a corrupted enemy out of the air just before it reaches Ceruledge's back.
+* **Key Visual:** Darkrai blasting an incoming attacker away from Ceruledge's side just before it can strike.
 
-* **Audience Emotion:** Excitement, vindication of the alliance.
+* **Audience Emotion:** Excitement, validation of their cooperation.
 
-* **Emotional Transition:** Desperate defense to empowered cooperation.
+* **Emotional Transition:** Desperate defense to practical coordination.
 
 * **Connection from Previous Scene:** Directly saves Ceruledge from the flank exposed in Scene 2.
 
-* **Connection to Next Scene:** Sets up their coordinated fighting style.
+* **Connection to Next Scene:** Sets up their synchronized combat flow in Scene 4.
 
-* **Connection to Act 5:** Solidifies Darkrai's shift from angry observer to active protector.
+* **Connection to Act 5:** Demonstrates Darkrai's active role as a defender.
 
 * **Estimated Duration:** 10 seconds
 
 ### Scene 4: Fire and Shadow
 
-* **Purpose:** Showcase the combat synergy between Ceruledge and Darkrai without them needing to communicate verbally.
+* **Purpose:** Showcase practical, instinctive combat synergy between Ceruledge and Darkrai without implying mastery or unbreakable trust.
 
 * **Characters:** Ceruledge, Darkrai, The Corrupted Vanguard
 
@@ -116,27 +116,27 @@
 
 * **Location:** Ruined throne room floor
 
-* **What Changes:** The two warriors synchronize their movements to effectively thin the Vanguard's numbers.
+* **What Changes:** The two warriors synchronize their movements to manage the attacking wave.
 
-* **Scene Action:** Ceruledge and Darkrai fight back-to-back around the central dais. Ceruledge uses high-speed, flaming strikes for close-quarters targets, while Darkrai hurls precise, explosive spheres of dark energy at airborne and distant threats. They move with an unspoken understanding, perfectly covering each other's blind spots without a single word exchanged.
+* **Scene Action:** Ceruledge and Darkrai engage the surrounding foes. Ceruledge handles close-range threats with rapid, flaming blade strikes, while Darkrai supports him by hurling precise bursts of dark energy at closing or airborne attackers. Their coordination is practical and mutually beneficial, keeping the swarm at bay without implying total trust.
 
-* **Key Visual:** A continuous, spinning shot of Ceruledge's bright flames and Darkrai's dark energy systematically dismantling the corrupted swarm.
+* **Key Visual:** Ceruledge cutting down a close-range target while Darkrai fires a dark projectile over his shoulder at an approaching threat.
 
 * **Audience Emotion:** Thrill, satisfaction, awe.
 
-* **Emotional Transition:** Survival instinct settling into focused, lethal rhythm.
+* **Emotional Transition:** Survival instinct settling into a focused combat rhythm.
 
-* **Connection from Previous Scene:** Capitalizes on the alliance formed in Scene 3.
+* **Connection from Previous Scene:** Capitalizes on the mutual support established in Scene 3.
 
-* **Connection to Next Scene:** Creates a brief moment of success before the scale of the threat is fully revealed.
+* **Connection to Next Scene:** Creates a brief window of control before the true scale of the invasion is revealed.
 
-* **Connection to Act 5:** Demonstrates that they are a formidable team, raising the stakes for what it will take to defeat them.
+* **Connection to Act 5:** Establishes that their alliance functions effectively under fire.
 
 * **Estimated Duration:** 12 seconds
 
 ### Scene 5: The Endless Tide
 
-* **Purpose:** Reveal the overwhelming scale of Yveltal's forces, proving this is an invasion, not a skirmish.
+* **Purpose:** Preserve the reversal where the heroes briefly manage the skirmish before discovering the overwhelming, siege-like scale of the invasion.
 
 * **Characters:** Ceruledge, Darkrai, The Corrupted Vanguard
 
@@ -144,27 +144,27 @@
 
 * **Location:** Ruined throne room overlook
 
-* **What Changes:** The tactical advantage shifts heavily back to the Vanguard due to sheer numbers.
+* **What Changes:** A manageable skirmish gives way to an overwhelming tide of incoming forces.
 
-* **Scene Action:** The initial wave of attackers is repelled, leaving a brief pause. Then, a low, rumbling hum echoes from the sky. Through the shattered ceiling, hundreds more glowing red eyes appear in the creeping mist. The dark fog spills over the walls like a waterfall, carrying an endless tide of Corrupted Vanguard into the hall.
+* **Scene Action:** As the initial attackers are forced back, a low hum ripples through the air. Through the gaps in the dark-red mist, a multitude of glowing red eyes emerges. The dark fog cascades over the ruined walls like a tide, revealing an overwhelming number of additional Vanguard forces pouring into the hall.
 
-* **Key Visual:** Hundreds of glowing red eyes piercing through the dark mist as it cascades over the ruined walls into the throne room.
+* **Key Visual:** Countless glowing red eyes piercing through the rolling dark-red mist as it spills over the broken stonework.
 
 * **Audience Emotion:** Dread, overwhelming odds, breathless tension.
 
-* **Emotional Transition:** Combat triumph crushed by overwhelming scale.
+* **Emotional Transition:** Combat stability crushed by overwhelming scale.
 
-* **Connection from Previous Scene:** Subverts the victory of Scene 4 by multiplying the threat.
+* **Connection from Previous Scene:** Subverts the brief stability of Scene 4 by multiplying the threat.
 
-* **Connection to Next Scene:** Forces the heroes to brace for a protracted siege.
+* **Connection to Next Scene:** Forces the heroes into a static, defensive posture.
 
-* **Connection to Act 5:** Sets the impossible odds that will carry over into the next act.
+* **Connection to Act 5:** Sets up the massive siege dynamics of Act 5.
 
 * **Estimated Duration:** 11 seconds
 
 ### Scene 6: The Shield Wall
 
-* **Purpose:** Finalize the act on a high-stakes emotional cliffhanger, with the heroes bracing for the true battle.
+* **Purpose:** Conclude the act with resolve, showing Ceruledge and Darkrai standing together out of necessity as the overwhelming force approaches, setting up the Act 5 cliffhanger.
 
 * **Characters:** Ceruledge, Darkrai, Froslass
 
@@ -172,21 +172,21 @@
 
 * **Location:** Ruined throne room dais
 
-* **What Changes:** The alliance is locked in; they commit to holding the line or dying together.
+* **What Changes:** The heroes take a unified defensive stance as the overwhelming tide closes in.
 
-* **Scene Action:** Seeing the overwhelming swarm descending, Ceruledge and Darkrai retreat to the absolute center of the dais, standing directly in front of the petrified Solgaleo and Froslass. Ceruledge's blades burn at maximum intensity. Darkrai's aura flares with absolute darkness. They take a grounded, unified defensive stance as the swarm lunges toward them.
+* **Scene Action:** Facing the oncoming swarm, Ceruledge and Darkrai take positions side-by-side in front of Froslass and the survivors. Ceruledge's blades burn steadily while Darkrai's aura flares, holding a grounded, united frontline against the rushing tide just before the clash hits.
 
-* **Key Visual:** Ceruledge and Darkrai standing side-by-side at the center of the dais, a beacon of fire and shadow, as a tidal wave of corrupted mist crashes down upon them.
+* **Key Visual:** Ceruledge and Darkrai standing resolute side-by-side on the dais, a barrier of fire and shadow against the advancing wave.
 
-* **Audience Emotion:** Epic anticipation, fear, unwavering support for the heroes.
+* **Audience Emotion:** Epic anticipation, tension, solemn resolve.
 
-* **Emotional Transition:** Overwhelming dread forged into unbreakable resolve.
+* **Emotional Transition:** Overwhelming dread forged into united defiance.
 
 * **Connection from Previous Scene:** The direct response to the endless tide revealed in Scene 5.
 
-* **Connection to Next Scene:** Leaves the audience on a cliffhanger precisely as the two sides clash, setting the stage for Act 5.
+* **Connection to Next Scene:** Leaves the audience on a cliffhanger right as the Vanguard crashes toward them, bridging into Act 5.
 
-* **Connection to Act 5:** Bridges directly into the massive siege battle of Act 5.
+* **Connection to Act 5:** Leads directly into the heavy siege combat of Act 5.
 
 * **Estimated Duration:** 10 seconds
 
@@ -195,11 +195,11 @@
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus | 
 | ----- | ----- | ----- | ----- | ----- | 
 | **Scene 1** | The Sky Falls | 10s | 10s | Vanguard ambush & threat escalation | 
-| **Scene 2** | Protect the Fallen | 10s | 20s | Ceruledge defends Froslass/Solgaleo | 
-| **Scene 3** | The Shadow's Reach | 10s | 30s | Darkrai actively defends Ceruledge | 
-| **Scene 4** | Fire and Shadow | 12s | 42s | Unspoken combat synergy & teamwork | 
+| **Scene 2** | Protect the Fallen | 10s | 20s | Ceruledge defends Froslass & statue | 
+| **Scene 3** | The Shadow's Reach | 10s | 30s | Darkrai provides practical combat support | 
+| **Scene 4** | Fire and Shadow | 12s | 42s | Practical combat coordination | 
 | **Scene 5** | The Endless Tide | 11s | 53s | Scale of the Vanguard invasion revealed | 
-| **Scene 6** | The Shield Wall | 10s | 63s | Defensive stance & emotional cliffhanger | 
+| **Scene 6** | The Shield Wall | 10s | 63s | Unified defensive stance & cliffhanger | 
 | **Hold/UI** | Transitions & Ending Hold | ~2s | **65s** | Final video completion padding | 
 
 *Note: Visual action and voiceover/narration run concurrently and are counted as a single unified runtime.*
