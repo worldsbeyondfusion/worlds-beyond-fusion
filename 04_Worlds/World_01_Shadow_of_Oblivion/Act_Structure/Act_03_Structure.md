@@ -1,6 +1,6 @@
 # Act 3: The Misunderstanding
 
-**Status:** GREG APPROVED
+**Status:** APPROVED BY GREG
 
 **Target Runtime:** 65–80 seconds
 
