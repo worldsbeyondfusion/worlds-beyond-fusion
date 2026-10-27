@@ -115,7 +115,7 @@
 * **Emotional Transition:** Unexpected power exploding into tense, mysterious momentum[span_92](start_span)[span_92](end_span).
 * **Connection from Previous Scene:** The climax of the resonance established in Scene 5[span_93](start_span)[span_93](end_span).
 * **Connection to Next Scene:** Directly sets up Act 6 for the revelation of Darkedge's emergence and counterattack[span_94](start_span)[span_94](end_span).
-* **Connection to Act 6:** The final cliffhanger leading into the saga's core fusion mechanics[span_95](start_span)[span_95](end_span).
+* **Connection to Act 6:** The final cliffhanger leads into Act 6, where Darkedge's emergence is revealed and its first response to the ongoing threat begins [span_95](start_span)[span_95](end_span).
 * **Estimated Duration:** 10 seconds[span_96](start_span)[span_96](end_span)
 
 ## Runtime Audit & Summary Table
