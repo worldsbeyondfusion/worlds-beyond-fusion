@@ -1,6 +1,6 @@
 # Act 2: The Last Grace
 
-**Status:** APPROVED BY GREG - AWAITING PRODUCER REVIEW
+**Status:** APPROVED BY GREG — MOVE CANON REVIEW PENDING
 
 **Target Runtime:** 65–80 seconds
 
@@ -138,7 +138,7 @@
 
 * **Purpose:** Demonstrate the tragic consequence of not being selected by the surge, and give Froslass's loss dedicated emotional weight[span_72](start_span)[span_72](end_span).
 
-* **Characters:** Froslass, Ceruledge, Togepi (erased), Selected Refugees[span_73](start_span)[span_73](end_span)
+* **Characters:** Froslass, Ceruledge, Darkrai, Togepi (erased), Dark/Ghost dual-type refugees [span_73](start_span)[span_73](end_span)
 
 * **Primary Character:** Froslass[span_74](start_span)[span_74](end_span)
 
@@ -195,9 +195,9 @@
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus | 
 | ----- | ----- | ----- | ----- | ----- | 
 | **Scene 1** | The Desperate Return | 10s | 10s | Ceruledge arrival & shield degradation[span_106](start_span)[span_106](end_span) | 
-| **Scene 2** | The Fading Light | 10s | 20s | Geography, specific crowd, & Solgaleo's limit[span_107](start_span)[span_107](end_span) | 
-| **Scene 3** | The Investigator's Arrival | 10s | 30s | Darkrai's arrival & analytical focus[span_108](start_span)[span_108](end_span) | 
-| **Scene 4** | The Final Sacrifice | 12s | 42s | Golden surge grants exception & petrification[span_109](start_span)[span_109](end_span) | 
-| **Scene 5** | The Empty Embrace | 13s | 55s | Togepi's loss amidst surge-protected survivors[span_110](start_span)[span_110](end_span) | 
-| **Scene 6** | The Roar of the Void | 8s | 63s | Emotional eruption & mistaken suspicion[span_111](start_span)[span_111](end_span) | 
-| **Hold/UI** | Transitions & Ending Hold | ~2s | **65s** | Final video completion padding[span_112](start_span)[span_112](end_span) | 
+| **Scene 2** | The Fading Light | 12s | 22s | Geography, specific crowd, & Solgaleo's limit[span_107](start_span)[span_107](end_span) | 
+| **Scene 3** | The Investigator's Arrival | 10s | 32s | Darkrai's arrival & analytical focus[span_108](start_span)[span_108](end_span) | 
+| **Scene 4** | The Final Sacrifice | 15s | 45s | Golden surge grants exception & petrification[span_109](start_span)[span_109](end_span) | 
+| **Scene 5** | The Empty Embrace | 16s | 61s | Togepi's loss amidst surge-protected survivors[span_110](start_span)[span_110](end_span) | 
+| **Scene 6** | The Roar of the Void | 9s | 70s | Emotional eruption & mistaken suspicion[span_111](start_span)[span_111](end_span) | 
+| **Hold/UI** | Transitions & Ending Hold | ~2s | **72s** | Final video completion padding[span_112](start_span)[span_112](end_span) | 
