@@ -57,7 +57,7 @@
 *   **Primary Character:** Darkedge
 *   **Location:** Ruined throne room dais
 *   **What Changes:** The internal conflict ceases as the fusion focuses on a shared goal.
-*   **Scene Action:** Knocked backward, Darkedge notices several Vanguard attackers bypassing the frontline, lunging straight for Froslass and the huddling refugees. Driven by the exact same protective instinct that caused their sacrifice, the internal physical conflict instantly ceases. The dark aura and violet flames stabilize into a smooth, unified glow as Darkedge locks onto the threat.
+*   **Scene Action:** Knocked backward, Darkedge notices several Vanguard attackers bypassing the frontline, lunging straight for Froslass and the huddling refugees. Driven by the exact same protective instinct that caused their protective instinct that brought them together in ther defese of the survivor, the internal physical conflict begin to settle. The dark aura and violet flames stabilize into a smooth, unified glow as Darkedge locks onto the threat.
 *   **Key Visual:** Darkedge stabilizing its aura into a smooth, bright violet glow as it turns its focus entirely toward the refugees' attackers.
 *   **Audience Emotion:** Relief, building momentum.
 *   **Emotional Transition:** Vulnerability solidifying into unified resolve.
@@ -89,7 +89,7 @@
 *   **Primary Character:** Darkedge
 *   **Location:** Ruined throne room
 *   **What Changes:** Darkedge pushes back the immediate assault, securing a temporary perimeter.
-*   **Scene Action:** Pressing its advantage, Darkedge sweeps forward. It combines Ceruledge's devastating blade arcs with Darkrai's ethereal shadow maneuvers to systematically dismantle the closest attackers. A flurry of glowing violet strikes forces the immediate wave of the Vanguard to scatter and fall back, breaking the immediate assault on the survivors. The larger swarm remains outside, but the immediate perimeter is cleared.
+*   **Scene Action:** Darkedge presses forward with coordinated blade strikes and flowing shadow movements. The closest Vanguard attackers are struck back or collapse into the surrounding darkness, breaking their immediate assault on the refugees. The space around Froslass becomes briefly clear, while the larger swarm remains beyond the perimeter.
 *   **Key Visual:** Darkedge unleashing a wide, sweeping arc of violet and black energy that forces the Vanguard attackers to scatter.
 *   **Audience Emotion:** Vindication, heroic triumph.
 *   **Emotional Transition:** Tactical success expanding into localized dominance.
@@ -137,7 +137,7 @@
 *   **Primary Character:** Yveltal / Darkedge
 *   **Location:** The dark sky / Ruined throne room
 *   **What Changes:** Yveltal fixes its attention on the fusion, setting the stage for the true final battle.
-*   **Scene Action:** The frozen clouds slowly part, revealing Yveltal's colossal form descending. It does not attack or command the mist; instead, its massive, glowing eyes lock directly onto Darkedge, its attention drawn by the unprecedented energy of the fusion. Darkedge stands resolute on the dais below, staring back up at the god of destruction as the scene cuts to black.
+*   **Scene Action:** The frozen clouds slowly part, revealing Yveltal's colossal form suspended high above the ruined kingdom. Its massive, glowing eyes lock directly onto Darkedge, its attention drawn by the unprecedented energy of the fusion. Darkedge stands resolute on the dais below, staring back as the scene cuts to black.
 *   **Key Visual:** Yveltal's colossal form framed in the parted clouds, its glowing eyes staring directly down at the glowing violet speck of Darkedge.
 *   **Audience Emotion:** Chilling dread, epic anticipation.
 *   **Emotional Transition:** Suspense culminating in a massive cliffhanger.
