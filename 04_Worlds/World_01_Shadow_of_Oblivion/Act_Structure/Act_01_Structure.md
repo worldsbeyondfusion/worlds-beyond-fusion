@@ -13,7 +13,7 @@
 ## Act Metadata
 
 * **Act Purpose:** Establish the creeping mist threat, introduce the contrast between the doomed outer world and the protected Golden Kingdom, establish emotional stakes through the erasure of Totodile and Mimikyu, demonstrate the pure Dark/Ghost-type survival mechanic, reveal the memory-wiping nature of the mist, and motivate Darkrai's journey to the kingdom. Establish the blood moon motif and the mist's dark-red color.
-* **Audience Knowledge:** The audience learns the ancient mist is silently erasing settlements and memories; only pure Dark and pure Ghost types survive; Solgaleo is straining to maintain a shield; and Darkrai, immune to the memory wipe, travels to the kingdom after witnessing the true horror of the erasure.
+* **Audience Knowledge:** The audience learns the ancient mist is silently erasing settlements and memories; only pure Dark and pure Ghost types survive; Solgaleo is straining to maintain a shield; and Darkrai, capable of recognizing the unnatural memory gap, travels to the kingdom after witnessing the true horror of the erasure.
 * **Primary Character:** Solgaleo / Darkrai
 * **Secondary Character:** Haunter, Poochyena, Mimikyu, Totodile
 * **Threat Presence:** Creeping Dark-Red Mist (the manifestation of Yveltal's Oblivion)
@@ -119,7 +119,7 @@
 * **Audience Emotion:** Determination, grim hope.
 * **Emotional Transition:** Psychological mystery to purposeful, focused resolve.
 * **Connection from Previous Scene:** The direct consequence of the memory discovery in Scene 5.
-* **Connection to Next Scene:** Concludes Act 1, setting up Darkrai's independent arrival at the throne room in Act 2 to demand answers.
+* **Connection to Next Scene:** Concludes Act 1 by sending Darkrai toward the Golden Kingdom to investigate how Solgaleo's barrier resists the mist and to search for a way to stop the catastrophe.
 * **Estimated Duration:** 8 seconds
 
 ---
