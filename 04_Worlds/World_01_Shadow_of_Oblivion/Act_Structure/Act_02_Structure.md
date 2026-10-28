@@ -4,20 +4,20 @@
 
 **Target Runtime:** 65–80 seconds
 
-**Planned Scene Action:** 70 seconds
-**Planned Runtime:** Approximately 72 seconds, including visual holds and transitions
+**Planned Scene Action:** 72 seconds
+**Planned Runtime:** Approximately 74 seconds, including visual holds and transitions
 
 **Scene Count:** 6 scenes
 
 ## Act Metadata
 
-* **Act Purpose:** Detail the failure of the Golden Kingdom's barrier, demonstrate Solgaleo's physical collapse and final petrification sacrifice to save selected refugees, depict Togepi's irreversible loss, establish Darkrai's independent arrival to investigate the breach, and set up Ceruledge's mistaken suspicion leading into Act 3.
+* **Act Purpose:** Detail the failure of the Golden Kingdom's barrier, demonstrate Solgaleo's physical collapse and final petrification sacrifice to protect eligible Dark/Ghost dual-type refugees, depict Togepi's irreversible loss, establish Darkrai's independent arrival to investigate the breach, and set up Ceruledge's mistaken suspicion leading into Act 3.
 
 * **Audience Knowledge:** Ceruledge returns independently to the kingdom seeking refuge; Solgaleo reaches his absolute physical limit maintaining the barrier over a crowd of selected refugees; Darkrai arrives separately, focused intently on analyzing the external threat; the barrier shatters completely; Solgaleo releases a golden surge that creates a survival exception for specific dual-type Pokémon before petrifying; Togepi falls outside the Dark/Ghost dual-type condition that Solgaleo’s final surge can anchor and dissolves into the dark-red mist; Darkrai unleashes an anguished roar that Ceruledge misinterprets as hostile intent.
 
 * **Primary Character:** Solgaleo / Ceruledge
 
-* **Secondary Character:** Froslass, Togepi, Darkrai, The Selected Refugees
+* **Secondary Character:** Froslass, Togepi, Darkrai, Dark/Ghost dual-type refugees
 
 * **Threat Presence:** Creeping Dark-Red Mist (Oblivion)
 
@@ -119,7 +119,7 @@
 
 * **What Changes:** The barrier shatters completely; Solgaleo is petrified into white stone after releasing a selective protective wave.
 
-* **Scene Action:** The golden dome above shatters entirely, revealing the blood moon through the ruined ceiling. As the dark-red mist plunges into the hall, Solgaleo lets out a final, majestic roar and releases a blinding, concentrated wave of golden energy. The surge spreads across the hall and forms stabilizing golden bonds around Ceruledge, Froslass, and the nearby dual-type refugees whose typing includes Dark or Ghost. Solgaleo’s power permanently anchors their existence against the mist, while a brief golden outline makes the protection visible. The golden surge passes over Togepi but cannot anchor Togepi’s pure Fairy-type existence. While the Dark/Ghost dual-type survivors ignite with stabilizing golden light, no protective bond forms around Togepi.. When the brilliant light fades, Solgaleo stands frozen in place, entirely petrified into cracked white stone.
+* **Scene Action:** The golden dome above shatters entirely, revealing the blood moon through the ruined ceiling. As the dark-red mist plunges into the hall, Solgaleo lets out a final, majestic roar and releases a blinding, concentrated wave of golden energy. The surge spreads across the hall, forming stabilizing golden bonds around Ceruledge, Froslass, and nearby dual-type refugees whose typing includes Dark or Ghost. Solgaleo’s power permanently anchors their existence against the mist, while a brief golden outline makes the protection visible. The golden surge passes over Togepi but cannot anchor Togepi’s pure Fairy-type existence. While the Dark/Ghost dual-type survivors ignite with stabilizing golden light, no protective bond forms around Togepi. When the brilliant light fades, Solgaleo stands frozen in place, entirely petrified into cracked white stone.
 
 * **Key Visual:** Solgaleo’s petrified stone form frozen mid-roar on the dais, having just cast a glowing aura over the selected crowd as the dark-red mist floods the hall.
 
@@ -137,7 +137,7 @@
 
 ### Scene 5: The Empty Embrace
 
-* **Purpose:** Demonstrate the tragic consequence of not being selected by the surge, and give Froslass's loss dedicated emotional weight.
+* **Purpose:** Demonstrate the tragic consequence of falling outside the condition that Solgaleo’s final surge can anchor, and give Froslass’s loss dedicated emotional weight.
 
 * **Characters:** Froslass, Ceruledge, Darkrai, Togepi (erased), Dark/Ghost dual-type refugees 
 
@@ -175,7 +175,7 @@
 
 * **What Changes:** Darkrai erupts in anguished frustration; Ceruledge misinterprets Darkrai as the source of the tragedy threatening the refugees.
 
-* **Scene Action:** Seeing the barrier destroyed, Solgaleo petrified, Togepi erased, and Froslass broken by the loss, Darkrai realizes that understanding the catastrophe has not given him the power to stop it. Investigation, grief, and helpless fury collapse into one anguished breaking point. Darkrai rears back and unleashes a massive, distorted roar that echoes through the ruins. Ceruledge snaps around. Seeing this dark entity roaring amid the tragedy, Ceruledge draws a fatal, mistaken conclusion. Ceruledge’s blades ignite as Ceruledge places himself firmly between Darkrai and the vulnerable survivors. He rears back and unleashes a massive, distorted roar of anguish that echoes through the ruins. Down below, Ceruledge snaps around. Seeing this dark entity roaring amidst the tragedy, Ceruledge draws a fatal, mistaken conclusion. His blades ignite with flame as he places himself firmly between Darkrai and the vulnerable crowd.
+* **Scene Action:** Seeing the barrier destroyed, Solgaleo petrified, Togepi erased, and Froslass broken by the loss, Darkrai realizes that understanding the catastrophe has not given him the power to stop it. Investigation, grief, and helpless fury collapse into one anguished breaking point. Darkrai rears back and unleashes a massive, distorted roar that echoes through the ruins. Ceruledge snaps around. Seeing this dark entity roaring amid the tragedy, Ceruledge draws a fatal, mistaken conclusion. Ceruledge’s blades ignite as Ceruledge places himself firmly between Darkrai and the vulnerable survivors. Ceruledge’s blades ignite as Ceruledge places himself firmly between Darkrai and the vulnerable survivors.
 
 * **Key Visual:** Darkrai roaring in silhouette against the dark-red sky and blood moon, while Ceruledge’s flaming blades ignite in the foreground, standing as a shield for the crowd behind him.
 
@@ -198,7 +198,7 @@
 | **Scene 1** | The Desperate Return | 10s | 10s | Ceruledge arrival & shield degradation | 
 | **Scene 2** | The Fading Light | 12s | 22s | Geography, specific crowd, & Solgaleo's limit | 
 | **Scene 3** | The Investigator's Arrival | 10s | 32s | Darkrai's arrival & analytical focus | 
-| **Scene 4** | The Final Sacrifice | 15s | 45s | Golden surge grants exception & petrification | 
-| **Scene 5** | The Empty Embrace | 16s | 61s | Togepi's loss amidst surge-protected survivors | 
-| **Scene 6** | The Roar of the Void | 9s | 70s | Emotional eruption & mistaken suspicion | 
-| **Hold/UI** | Transitions & Ending Hold | ~2s | **72s** | Final video completion padding | 
+| **Scene 4** | The Final Sacrifice | 15s | 47s | Golden surge grants exception & petrification | 
+| **Scene 5** | The Empty Embrace | 16s | 63s | Togepi's loss amidst surge-protected survivors | 
+| **Scene 6** | The Roar of the Void | 9s | 72s | Emotional eruption & mistaken suspicion | 
+| **Hold/UI** | Transitions & Ending Hold | ~2s | **74s** | Final video completion padding | 
