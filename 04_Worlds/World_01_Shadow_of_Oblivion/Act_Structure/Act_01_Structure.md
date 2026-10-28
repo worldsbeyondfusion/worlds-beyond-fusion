@@ -4,7 +4,7 @@
 
 **Target Runtime:** 70–80 seconds
 
-**Planned Scene Action:** 73 seconds (leaves ~2s for visual holds and transitions)
+**Planned Scene Action:** Approximately 75 seconds, with transitions and emotional holds included within scene estimates where possible.
 
 **Scene Count:** 6 scenes
 
