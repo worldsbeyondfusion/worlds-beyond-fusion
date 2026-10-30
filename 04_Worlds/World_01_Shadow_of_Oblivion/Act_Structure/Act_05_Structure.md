@@ -1,6 +1,6 @@
 # Act 5: The Breaking Point
 
-**Status:** WORKING DRAFT — NOT YET APPROVED BY GREG
+**Status:** APPROVED STORY BY GREG, Producer Review pending
 
 **Target Runtime:** 65–80 seconds
 
