@@ -1,6 +1,6 @@
 # Act 6: The Darkedge
 
-**Status:** PROPOSED REVISION — NOT YET APPROVED BY GREG
+**Status:** APPROVED STORY BY GREG, Producer Review pending
 
 **Target Runtime:** 65–80 seconds
 
