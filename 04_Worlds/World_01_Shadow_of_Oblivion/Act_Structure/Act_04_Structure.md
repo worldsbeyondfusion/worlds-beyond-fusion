@@ -1,6 +1,6 @@
 # Act 4: The Vanguard
 
-**Status:** APPROVED BY GREG
+**Status:** APPROVED STORY BY GREG, Producer Review pending
 
 **Target Runtime:** 65–80 seconds
 
