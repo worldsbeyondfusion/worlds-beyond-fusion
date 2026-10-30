@@ -1,6 +1,6 @@
 # Act 7: The God's Descent
 
-**Status:** PROPOSED REVISION — NOT YET APPROVED BY GREG
+**Status:** APPROVED STORY BY GREG
 
 **Target Runtime:** 65–80 seconds
 
@@ -62,7 +62,7 @@
 * **Location:** Ruined throne room
 * **What Changes:** Darkedge realizes the terrifying durability of its opponent.
 * **Scene Action:** Pressing the assault, Darkedge finally drives a burning violet blade directly against Yveltal's chest. Yveltal stops moving and deliberately allows the strike to connect. The violet fire washes across Yveltal’s feathers without causing any meaningful damage. Realizing the attack accomplished nothing, Darkedge freezes. With a casual, dismissive sweep of its wing, Yveltal bats the fusion violently across the room.
-* **Key Visual:** Darkedge's flaming blade pressed directly against Yveltal’s chest, the god standing still and allowing the fire to wash over it unharmed before casually swatting the fusion away.
+* **Key Visual:** Darkedge's burning violet blade pressed directly against Yveltal’s chest, the god remains complety unmoved allowing the fire to wash over its feathers without any visible damage before casually swatting the darkedge away.
 * **Audience Emotion:** Shock, hopelessness.
 * **Emotional Transition:** Fleeting hope instantly shut down by an insurmountable power gap.
 * **Connection from Previous Scene:** The immediate result of Darkedge's continued assault.
@@ -78,7 +78,7 @@
 * **Location:** The central dais (near Solgaleo's statue)
 * **What Changes:** Collateral damage causes casualties; the crystal is dislodged and quietly pocketed by a fleeing survivor.
 * **Scene Action:** Darkedge crashes into the stonework, sending deadly debris raining over the survivors. Several refugees are struck and killed. The shockwave hurls a wounded survivor directly against Solgaleo's already-fractured petrified statue. The impact cracks the white stone further, dislodging a small, clear, ordinary-looking crystal that falls into the rubble. As Froslass desperately drags another wounded Pokémon to safety, a different fleeing survivor spots the clear crystal and quietly scoops it up while running for cover.
-* **Key Visual:** Dust and debris raining down on the panicked refugees as a survivor scoops a clear, non-glowing crystal from the rubble at the base of Solgaleo's cracked statue.
+* **Key Visual:** Amid the dust and fleeing refugees, a small clear crystal lies among the rubble at the base of Solgaleo's cracked statue. In the background, a different survivor briefly picks it up while escaping, almost lost among the surrounding chaos.
 * **Audience Emotion:** Desperation, grief, claustrophobia.
 * **Emotional Transition:** Awe of the gods shifting to the horrifying reality of collateral damage.
 * **Connection from Previous Scene:** The direct fallout from Yveltal swatting Darkedge.
@@ -115,7 +115,7 @@
 * **Emotional Transition:** Tactical struggle halted by an overwhelming, apocalyptic threat.
 * **Connection from Previous Scene:** Yveltal's escalation after interrupting Darkedge's unstable synchronization.
 * **Connection to Next Scene:** Bridges directly into Act 8, where the massive attack makes impact.
-* **Connection to Act 8:** Sets up the opening clash and defensive desperation of the next act.
+* **Connection to Act 8:** Continues the confrontation in the partially exposed, ruined throne room, where Yveltal's attack is abount to make impact
 * **Estimated Duration:** 10 seconds
 
 ## Runtime Audit & Summary Table
