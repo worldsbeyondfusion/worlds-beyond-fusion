@@ -1,6 +1,6 @@
 # Act 7: The God's Descent
 
-**Status:** APPROVED STORY BY GREG
+**Status:** APPROVED STORY BY GREG, Producer Review pending
 
 **Target Runtime:** 65–80 seconds
 
