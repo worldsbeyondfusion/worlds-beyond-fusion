@@ -1,205 +1,127 @@
 # Act 8: The Crimson Eclipse
 
-**Status:** PROPOSED DRAFT — NOT CANON
+**Status:** PROPOSED REVISION — NOT YET APPROVED BY GREG
 
-**Target Runtime:** 65–80 seconds
+**Target Runtime:** 80–85 seconds
 
-**Planned Scene Action:** 63 seconds (leaves \~2s for visual holds and transitions)
+**Planned Scene Action:** 78 seconds (leaves ~2s for visual holds and transitions)
 
 **Scene Count:** 6 scenes
 
 ## Act Metadata
 
-* **Act Purpose:** Deliver the climax of the physical clash without ending the battle. Show Darkedge successfully defending the survivors and landing a critical, wounding blow on Yveltal, which in turn provokes the god of destruction into an enraged, apocalyptic final phase. 
-
-* **Audience Knowledge:** Darkedge possesses enough raw power to split a god-tier attack; Yveltal is not invincible and can be physically wounded; wounding Yveltal does not defeat it, but rather infuriates it; Yveltal abandons its ranged attacks for a full-body, meteor-like dive bomb to erase the entire kingdom.
-
-* **Primary Character:** Darkedge
-
-* **Secondary Character:** Yveltal, Froslass
-
-* **Threat Presence:** Yveltal (Enraged)
+* **Act Purpose:** Deliver the climax of the physical clash by forcing Darkedge into a desperate defensive struggle. Show the fusion unexpectedly landing a physical strike by exploiting Yveltal's arrogance, which wounds the god's pride and prompts a devastating, punitive escalation. Introduce the crystal seamlessly into the chaos without resolving its purpose.
+* **Audience Knowledge:** Darkedge can barely withstand Yveltal's massive attacks and fights desperately to protect the survivors; Yveltal treats the fight as a game until it is unexpectedly struck; the crystal is thrown to Darkedge but appears entirely useless; Yveltal decides to stop toying with the fusion and prepares to erase the battlefield.
+* **Primary Character:** Darkedge / Yveltal
+* **Secondary Character:** Froslass, The Surge-Protected Refugees
+* **Threat Presence:** Yveltal (Offended Superiority / Punitive Wrath)
 
 ## Scene Breakdown
 
 ### Scene 1: The Crimson Avalanche
 
-* **Purpose:** Pick up exactly from the Act 7 cliffhanger, showing the terrifying scale of Yveltal's destructive blast.
-
-* **Characters:** Yveltal, Darkedge
-
-* **Primary Character:** Yveltal
-
+* **Purpose:** Pick up exactly from the Act 7 cliffhanger, showing Darkedge struggling under the terrifying scale of Yveltal's destructive blast to protect the survivors.
+* **Characters:** Yveltal, Darkedge, The Surge-Protected Refugees
+* **Primary Character:** Yveltal / Darkedge
 * **Location:** Ruined throne room
-
-* **What Changes:** The devastating crimson sphere is unleashed upon the kingdom.
-
-* **Scene Action:** The blinding crimson sphere in the sky detonates downward. A massive, roaring beam of dark red energy crashes toward the throne room like an avalanche. On the dais, Darkedge refuses to dodge, knowing Froslass and Solgaleo's statue are directly behind it. Darkedge crosses its blazing violet blades and braces for the impact.
-
-* **Key Visual:** The colossal crimson beam swallowing the screen, colliding violently against the small, crossed violet blades of Darkedge in the center of the ruins.
-
+* **What Changes:** The devastating crimson sphere is unleashed, pushing Darkedge to its physical limits.
+* **Scene Action:** The blinding crimson sphere in the sky detonates downward. A massive, roaring beam of black and crimson energy crashes onto the throne room like an avalanche. On the dais, Darkedge refuses to dodge, crossing its blades to shield Froslass and the refugees. The sheer force of the impact crushes Darkedge to one knee. Blistering heat and debris wash over the survivors, injuring several as they huddle behind the struggling fusion.
+* **Key Visual:** The colossal crimson beam swallowing the screen, relentlessly driving a straining Darkedge down to one knee as debris pelts the terrified survivors behind it.
 * **Audience Emotion:** Breathless panic, extreme tension.
-
-* **Emotional Transition:** Apocalyptic dread meeting unbreakable defense.
-
+* **Emotional Transition:** Apocalyptic dread meeting desperate, agonizing resistance.
 * **Connection from Previous Scene:** Direct, seamless continuation of Act 7, Scene 6.
+* **Connection to Next Scene:** Leads to Darkedge's desperate attempt to redirect the energy in Scene 2.
+* **Connection to Act 9:** Establishes the terrifying scale of destruction they are trying to prevent.
+* **Estimated Duration:** 12 seconds
 
-* **Connection to Next Scene:** Leads to Darkedge's struggle to hold the line in Scene 2.
+### Scene 2: The Breaking Point
 
-* **Connection to Act 9:** Establishes the scale of destruction they are trying to prevent.
-
-* **Estimated Duration:** 10 seconds
-
-### Scene 2: Parting the Sea
-
-* **Purpose:** Showcase the immense, god-tier strength of the fusion as it deflects the lethal attack.
-
+* **Purpose:** Replace triumphant defense with a desperate, costly struggle. Darkedge manages to redirect the blast, but the kingdom pays the price.
 * **Characters:** Darkedge
-
 * **Primary Character:** Darkedge
-
 * **Location:** Ruined throne room dais
+* **What Changes:** Darkedge survives the attack, but the victory is incomplete and causes further catastrophic damage to the kingdom.
+* **Scene Action:** Fighting against the crushing weight, Darkedge attempts to redirect the attack rather than absorb it. Its violet fire and black shadow flare violently, struggling to control the incoming force. The stone dais beneath Darkedge's feet violently fractures. With a desperate heave, Darkedge shunts the beam upward and outward. The escaping energy obliterates the kingdom's outer walls and shatters the surrounding ruins, leaving Darkedge battered and smoking amidst the devastation.
+* **Key Visual:** Darkedge straining violently to push the roaring beam aside, tearing the kingdom's outer walls to shreds as the dais crumbles beneath its feet.
+* **Audience Emotion:** Relief mixed with exhaustion and dread.
+* **Emotional Transition:** Desperate struggle shifting to a costly, incomplete survival.
+* **Connection from Previous Scene:** The continuation of the struggle to hold back the beam.
+* **Connection to Next Scene:** Uses the resulting chaos and smoke to create an offensive opening.
+* **Connection to Act 9:** Reinforces that Darkedge cannot endure a prolonged defensive battle.
+* **Estimated Duration:** 14 seconds
 
-* **What Changes:** Darkedge overcomes the god's attack, securing the safety of the survivors.
+### Scene 3: The Opening
 
-* **Scene Action:** The sheer force of the beam cracks the stone beneath Darkedge's feet, pushing the fusion backward an inch. But Darkedge lets out a dual-toned roar, its ethereal flames exploding in size. With a massive, outward sweep of both arms, Darkedge slices the crimson beam directly in half. The divided energy violently bypasses the dais, obliterating the kingdom's outer walls while leaving the center completely untouched.
-
-* **Key Visual:** Darkedge roaring as it violently parts the roaring crimson beam like a sea of red energy, the violet fire shielding the center of the dais.
-
-* **Audience Emotion:** Intense hype, triumphant relief.
-
-* **Emotional Transition:** Desperate struggle shifting to overwhelming power.
-
-* **Connection from Previous Scene:** The direct counter to Yveltal's beam attack.
-
-* **Connection to Next Scene:** Uses the explosion and smoke as cover for an offensive strike.
-
-* **Connection to Act 9:** Cements Darkedge as a genuine rival to Yveltal's power.
-
-* **Estimated Duration:** 10 seconds
-
-### Scene 3: The Ascension
-
-* **Purpose:** Shift Darkedge from defense to high-speed, tactical offense.
-
+* **Purpose:** Shift the confrontation to a brief offensive opportunity arising naturally from timing and Yveltal's arrogance, rather than superior speed or new abilities.
 * **Characters:** Darkedge, Yveltal
-
 * **Primary Character:** Darkedge
-
 * **Location:** The dark sky / smoke clouds
-
-* **What Changes:** Darkedge closes the massive distance between the ground and the sky instantly.
-
-* **Scene Action:** Before the divided crimson energy even fully dissipates, Darkedge uses the massive plumes of smoke as cover. It teleports upward in a rapid series of violet flashes, ascending through the chaotic sky. Yveltal looks down, momentarily losing track of its prey in the smoke, until a bright violet glow erupts directly above the god's head.
-
-* **Key Visual:** Yveltal looking around the smoky sky, unaware of the glowing violet silhouette of Darkedge dropping rapidly from the clouds above it.
-
-* **Audience Emotion:** Anticipation, thrill of the counter-attack.
-
-* **Emotional Transition:** Triumphant defense escalating into surgical aggression.
-
-* **Connection from Previous Scene:** Capitalizes on the opening created in Scene 2.
-
+* **What Changes:** Darkedge uses the cover of the destruction to approach the dismissive god.
+* **Scene Action:** Massive plumes of smoke and dust fill the air from the redirected blast. High above, Yveltal remains aloft, its posture relaxed and indifferent. Believing Darkedge is still struggling below, Yveltal does not closely monitor the smoke and falling debris. Darkedge uses the chaos as cover, rapidly leaping between falling pillars and fragments of stone to approach from an unexpected angle, exploiting the god's dismissive attention.
+* **Key Visual:** Yveltal hovering with arrogant indifference above a sea of thick smoke, unaware of Darkedge leaping between falling pillars and stone fragments from an unexpected angle.
+* **Audience Emotion:** Anticipation, thrill of the unexpected counter-attack.
+* **Emotional Transition:** Exhaustion sparking into a desperate tactical gamble.
+* **Connection from Previous Scene:** Capitalizes on the opening created by the smoke in Scene 2.
 * **Connection to Next Scene:** Delivers the physical payoff of the maneuver.
+* **Connection to Act 9:** Demonstrates Darkedge's combat intelligence under pressure.
+* **Estimated Duration:** 12 seconds
 
-* **Connection to Act 9:** Proves the fusion's speed is superior to Yveltal's tracking.
+### Scene 4: The Unforgivable Strike
 
-* **Estimated Duration:** 11 seconds
-
-### Scene 4: The Eclipse Strike
-
-* **Purpose:** Deliver a critical, wounding blow to Yveltal, proving the god of destruction can bleed.
-
+* **Purpose:** Deliver a critical turning point where Darkedge lands a genuine physical strike, inflicting negligible damage and not overpowering Yveltal, but deeply violating the god's perceived superiority.
 * **Characters:** Darkedge, Yveltal
-
-* **Primary Character:** Darkedge
-
+* **Primary Character:** Darkedge / Yveltal
 * **Location:** The dark sky
-
-* **What Changes:** Yveltal suffers its first genuine injury of the battle.
-
-* **Scene Action:** Darkedge descends like a violet meteor. Before Yveltal can raise a wing to defend itself, Darkedge drives a spinning, flaming heel—and a simultaneous blade slash—directly into Yveltal's chest and shoulder. The impact echoes like thunder. Dark ethereal energy erupts from the wound, and Yveltal is violently knocked backward in the air.
-
-* **Key Visual:** A close-up slow-motion shot of Darkedge's flaming violet blade carving a trail of dark energy across Yveltal's colossal chest.
-
-* **Audience Emotion:** Pure exhilaration, massive satisfaction.
-
-* **Emotional Transition:** Surgical aggression culminating in a devastating, successful hit.
-
-* **Connection from Previous Scene:** The direct impact of the drop-attack from Scene 3.
-
-* **Connection to Next Scene:** Provokes Yveltal's enraged response.
-
-* **Connection to Act 9:** The catalyst for Yveltal abandoning restraint and entering its final phase.
-
+* **What Changes:** Yveltal's amusement evaporates after being caught off guard by a physical hit.
+* **Scene Action:** Darkedge breaks through the smoke from Yveltal's blind spot, driving a flaming violet blade squarely against the side of Yveltal's head. The strike clearly connects, briefly interrupting Yveltal's posture and turning its head, though it causes negligible physical injury and fails to overpower the god. Yveltal freezes in mid-air. Its playful amusement instantly vanishes, stunned that something it considered an insignificant toy managed to touch it.
+* **Key Visual:** Darkedge landing a solid, flaming blade strike that turns Yveltal’s head without causing real injury; Yveltal freezes mid-air as its expression shifts to cold humiliation.
+* **Audience Emotion:** Sudden shock, intense apprehension.
+* **Emotional Transition:** Tactical success instantly turning into an overwhelming sense of making a terrible mistake.
+* **Connection from Previous Scene:** The direct impact of the stealth approach from Scene 3.
+* **Connection to Next Scene:** Provokes Yveltal's offended, punitive response.
+* **Connection to Act 9:** The catalyst for Yveltal deciding to end the confrontation.
 * **Estimated Duration:** 12 seconds
 
 ### Scene 5: The God's Wrath
 
-* **Purpose:** Show the immediate, terrifying consequence of wounding a deity.
-
-* **Characters:** Yveltal, Darkedge
-
+* **Purpose:** Show the psychological shift in Yveltal to cold, offended hostility. Integrate the crystal Easter egg within Darkedge's immediate reach on the dais without resolving its mystery.
+* **Characters:** Yveltal, Darkedge, A Fleeing Survivor
 * **Primary Character:** Yveltal
-
 * **Location:** The dark sky / Ruined throne room
+* **What Changes:** Yveltal decides to end the fight. The crystal is thrown onto the dais near Darkedge but appears completely inactive.
+* **Scene Action:** Yveltal recovers its composure, its attitude shifting to cold, offended hostility as it descends toward the throne room. On the fractured dais, a desperate survivor hurls the small, clear crystal toward Darkedge, hoping to help. The transparent crystal clatters onto the stone within Darkedge's immediate reach, emitting no light or energy; Darkedge neither picks it up nor recognizes its significance. Yveltal briefly notices the crystal with mild curiosity, fails to recognize it, and immediately returns its cold attention to Darkedge.
+* **Key Visual:** Yveltal staring down with cold hostility as a clear, transparent crystal lands on the fractured dais within Darkedge's immediate reach; the god glances at it with brief curiosity before focusing back on Darkedge.
+* **Audience Emotion:** Sinking dread, helplessness.
+* **Emotional Transition:** Apprehension solidifying into inescapable doom.
+* **Connection from Previous Scene:** The psychological aftermath of the unforgivable strike.
+* **Connection to Next Scene:** Leads to Yveltal charging its final, punitive attack.
+* **Connection to Act 9:** Leaves the crystal accessible within Darkedge's reach on the dais for Act 9.
+* **Estimated Duration:** 14 seconds
 
-* **What Changes:** Yveltal loses its composure and erupts in pure, blinding rage.
+### Scene 6: The Crimson Eclipse
 
-* **Scene Action:** Yveltal recovers mid-air, clutching its wounded chest. It throws its head back and unleashes a deafening, reality-warping shriek of absolute fury. A spherical shockwave of dense, black aura explodes outward from its body. Darkedge is caught in the blast and is violently hurled back down toward the throne room, crashing heavily onto the stone floor.
-
-* **Key Visual:** A massive, dark shockwave rippling through the sky as Yveltal shrieks, blasting Darkedge downward like a falling star.
-
-* **Audience Emotion:** Shock, sudden fear.
-
-* **Emotional Transition:** Triumphant high instantly crushed by furious retaliation.
-
-* **Connection from Previous Scene:** The immediate retaliation for the wound in Scene 4.
-
-* **Connection to Next Scene:** Leaves Darkedge grounded while Yveltal prepares its final attack.
-
-* **Connection to Act 9:** Establishes the extreme danger of an enraged Yveltal.
-
-* **Estimated Duration:** 10 seconds
-
-### Scene 6: The Sky Bleeds
-
-* **Purpose:** End the act on an even higher cliffhanger, setting up the ultimate, final clash of the saga.
-
-* **Characters:** Yveltal, Darkedge
-
+* **Purpose:** End the act on a massive cliffhanger as Yveltal deliberately escalates far beyond its earlier attack, unleashing a punitive strike to eliminate the battlefield.
+* **Characters:** Yveltal, Darkedge, Froslass, The Surge-Protected Refugees
 * **Primary Character:** Yveltal / Darkedge
-
 * **Location:** Ruined throne room / The dark sky
-
-* **What Changes:** The battle transitions into an all-or-nothing, final apocalyptic clash.
-
-* **Scene Action:** Darkedge forces itself back to its feet, its violet armor visibly fractured and venting smoke from the immense strain of the fight. Above, Yveltal’s dark aura saturates the storm clouds, turning the entire sky a deep, blood red. Abandoning ranged attacks, Yveltal tucks its massive wings and goes into a full-speed, catastrophic dive-bomb, aiming its entire body at the dais to erase it from existence. Darkedge points both blades up, ignoring its own fractures, ready for the final impact.
-
-* **Key Visual:** A wide shot of the blood-red sky as Yveltal dive-bombs like a dark meteor, while a fractured Darkedge stands alone on the dais, glowing brightly to meet it.
-
+* **What Changes:** Abandoning its previous playful approach, Yveltal prepares its most devastating punitive attack.
+* **Scene Action:** Having completely abandoned the playful restraint of its earlier blast, Yveltal ascends and gathers an overwhelming, apocalyptic concentration of black-and-crimson energy—a deliberate escalation meant to utterly eliminate Darkedge and everything it protects. Down on the fractured dais, Darkedge is heavily battered and visibly exhausted. Unable to evacuate the survivors, Darkedge steps firmly in front of Froslass and the refugees, crossing its blades in a final, desperate defensive stance as the sky turns black. The scene cuts to black precisely as this ultimate punitive attack is unleashed, before impact.
+* **Key Visual:** A wide shot of the sky eclipsed by a terrifying, dense mass of black and crimson energy far surpassing the earlier blast, while a battered Darkedge stands on the fractured dais bracing to shield the survivors.
 * **Audience Emotion:** Ultimate suspense, epic dread.
-
-* **Emotional Transition:** Retaliatory fear solidifying into an absolute, do-or-die standoff.
-
-* **Connection from Previous Scene:** The escalation of Yveltal's wrath into a physical finisher.
-
-* **Connection to Next Scene:** Sets the stage for the final, concluding collision in Act 9.
-
-* **Connection to Act 9:** This dive-bomb is the opening action of the next act.
-
-* **Estimated Duration:** 10 seconds
+* **Emotional Transition:** Doom peaking into an absolute, do-or-die cliffhanger.
+* **Connection from Previous Scene:** The escalation of Yveltal's wounded pride into a final finisher.
+* **Connection to Next Scene:** Sets the stage for the final concluding collision.
+* **Connection to Act 9:** This ultimate attack forms the opening crisis of the next act.
+* **Estimated Duration:** 14 seconds
 
 ## Runtime Audit & Summary Table
 
 | Scene | Scene Title | Scene Action Duration | Cumulative Total | Primary Focus | 
 | ----- | ----- | ----- | ----- | ----- | 
-| **Scene 1** | The Crimson Avalanche | 10s | 10s | Yveltal's massive beam attack | 
-| **Scene 2** | Parting the Sea | 10s | 20s | Darkedge slices the beam to protect the dais | 
-| **Scene 3** | The Ascension | 11s | 31s | Darkedge teleports through the smoke | 
-| **Scene 4** | The Eclipse Strike | 12s | 43s | Darkedge physically wounds Yveltal | 
-| **Scene 5** | The God's Wrath | 10s | 53s | Yveltal shrieks and blasts Darkedge down | 
-| **Scene 6** | The Sky Bleeds | 10s | 63s | Yveltal dive-bombs for a final clash | 
-| **Hold/UI** | Transitions & Ending Hold | \~2s | **65s** | Final video completion padding | 
-
-*Note: Visual action and voiceover/narration run concurrently and are counted as a single unified runtime.*
+| **Scene 1** | The Crimson Avalanche | 12s | 12s | Darkedge struggles to hold back the beam | 
+| **Scene 2** | The Breaking Point | 14s | 26s | Costly, incomplete redirection of the attack | 
+| **Scene 3** | The Opening | 12s | 38s | Darkedge exploits Yveltal's dismissive attention | 
+| **Scene 4** | The Unforgivable Strike | 12s | 50s | A genuine hit turns Yveltal's head, wounding its pride | 
+| **Scene 5** | The God's Wrath | 14s | 64s | Yveltal's cold fury; crystal lands within Darkedge's reach | 
+| **Scene 6** | The Crimson Eclipse | 14s | 78s | Yveltal unleashes its ultimate punitive strike | 
+| **Hold/UI** | Transitions & Ending Hold | ~2s | **80s** | Final video completion padding |
